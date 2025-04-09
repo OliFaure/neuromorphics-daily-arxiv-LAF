@@ -187,7 +187,7 @@ def json_to_md(filename,md_filename,
             f.write(f"[![Issues][issues-shield]][issues-url]\n\n")    
                 
         if use_title == True:
-            f.write("## Updated on " + DateNow + "\n\n")
+            f.write(" Updated on " + DateNow + "\n\n")
         else:
             f.write("> Updated on " + DateNow + "\n\n")
         
