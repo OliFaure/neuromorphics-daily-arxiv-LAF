@@ -1,4 +1,4 @@
- Updated on 2025.04.15
+ Updated on 2025.04.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -63,7 +63,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250416>back to top</a>)</p>
 
 ## Forward Forward
 
@@ -71,6 +71,7 @@
 |---|---|---|---|---|
 |**2003-03-26**|**A Gedanken spacecraft that operates using the quantum vacuum (Dynamic Casimir effect)**|G. Jordan Maclay et.al.|[physics/0303108v1](http://arxiv.org/abs/physics/0303108v1)|null|
 |**1997-10-07**|**The N - Jet Inclusive Cross-Section in the Hard Pomeron Model**|Mikhail Braun et.al.|[hep-ph/9710263v1](http://arxiv.org/abs/hep-ph/9710263v1)|null|
+|**2025-04-15**|**The Forward-Forward Algorithm: Characterizing Training Behavior**|Reece Adamson et.al.|[2504.11229v1](http://arxiv.org/abs/2504.11229v1)|null|
 |**2025-02-19**|**Backpropagation-free Spiking Neural Networks with the Forward-Forward Algorithm**|Mohammadnavid Ghader et.al.|[2502.20411v1](http://arxiv.org/abs/2502.20411v1)|null|
 |**2025-02-27**|**Forward-Cooperation-Backward (FCB) learning in a Multi-Encoding Uni-Decoding neural network architecture**|Prasun Dutta et.al.|[2502.20113v1](http://arxiv.org/abs/2502.20113v1)|null|
 |**2025-02-01**|**Contrastive Forward-Forward: A Training Algorithm of Vision Transformer**|Hossein Aghagolzadeh et.al.|[2502.00571v1](http://arxiv.org/abs/2502.00571v1)|null|
@@ -136,12 +137,13 @@
 |**2011-12-27**|**Dihadron momentum imbalance and correlations in d+Au collisions**|Zhong-Bo Kang et.al.|[1112.6021v1](http://arxiv.org/abs/1112.6021v1)|null|
 |**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250416>back to top</a>)</p>
 
 ## SNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-15**|**A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications**|Alexandru Vasilache et.al.|[2504.11026v1](http://arxiv.org/abs/2504.11026v1)|null|
 |**2025-04-14**|**Advancing RFI-Detection in Radio Astronomy with Liquid State Machines**|Nicholas J Pritchard et.al.|[2504.09796v1](http://arxiv.org/abs/2504.09796v1)|null|
 |**2025-04-12**|**Spiking Neural Network for Intra-cortical Brain Signal Decoding**|Song Yang et.al.|[2504.09213v1](http://arxiv.org/abs/2504.09213v1)|null|
 |**2025-04-12**|**Gaussian process regression with additive periodic kernels for two-body interaction analysis in coupled phase oscillators**|Ryosuke Yoneda et.al.|[2504.09110v1](http://arxiv.org/abs/2504.09110v1)|null|
@@ -161,7 +163,7 @@
 |**2025-04-01**|**Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00957v1](http://arxiv.org/abs/2504.00957v1)|null|
 |**2025-04-01**|**Scaling Up Resonate-and-Fire Networks for Fast Deep Learning**|Thomas E. Huber et.al.|[2504.00719v1](http://arxiv.org/abs/2504.00719v1)|null|
 |**2025-04-01**|**QUEST: A Quantized Energy-Aware SNN Training Framework for Multi-State Neuromorphic Devices**|Sai Li et.al.|[2504.00679v1](http://arxiv.org/abs/2504.00679v1)|null|
-|**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|**[link](https://github.com/lwxfight/snn-underwater)**|
+|**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|null|
 |**2025-03-31**|**Biologically Inspired Spiking Diffusion Model with Adaptive Lateral Selection Mechanism**|Linghao Feng et.al.|[2503.23767v1](http://arxiv.org/abs/2503.23767v1)|null|
 |**2025-03-27**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|Yesmine Abdennadher et.al.|[2503.21846v1](http://arxiv.org/abs/2503.21846v1)|null|
 |**2025-03-22**|**Threshold Adaptation in Spiking Networks Enables Shortest Path Finding and Place Disambiguation**|Robin Dietrich et.al.|[2503.21795v1](http://arxiv.org/abs/2503.21795v1)|**[link](https://github.com/dietriro/neuroseq)**|
@@ -250,7 +252,7 @@
 |**2025-02-06**|**FAS: Fast ANN-SNN Conversion for Spiking Large Language Models**|Long Chen et.al.|[2502.04405v1](http://arxiv.org/abs/2502.04405v1)|null|
 |**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250416>back to top</a>)</p>
 
 ## Memristive Computing
 
@@ -261,5 +263,5 @@
 |**2022-08-21**|**Memristive Computing for Efficient Inference on Resource Constrained Devices**|Venkatesh Rammamoorthy et.al.|[2208.10490v1](http://arxiv.org/abs/2208.10490v1)|null|
 |**2021-05-31**|**Quantum-statistical transport phenomena in memristive computing architectures**|Christopher N. Singh et.al.|[1908.08070v2](http://arxiv.org/abs/1908.08070v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250415>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250416>back to top</a>)</p>
 

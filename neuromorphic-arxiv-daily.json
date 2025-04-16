@@ -115,7 +115,8 @@
     "1112.6021": "|**2011-12-27**|**Dihadron momentum imbalance and correlations in d+Au collisions**|Zhong-Bo Kang et.al.|[1112.6021v1](http://arxiv.org/abs/1112.6021v1)|null|\n",
     "0803.2273": "|**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|\n",
     "physics/0303108": "|**2003-03-26**|**A Gedanken spacecraft that operates using the quantum vacuum (Dynamic Casimir effect)**|G. Jordan Maclay et.al.|[physics/0303108v1](http://arxiv.org/abs/physics/0303108v1)|null|\n",
-    "hep-ph/9710263": "|**1997-10-07**|**The N - Jet Inclusive Cross-Section in the Hard Pomeron Model**|Mikhail Braun et.al.|[hep-ph/9710263v1](http://arxiv.org/abs/hep-ph/9710263v1)|null|\n"
+    "hep-ph/9710263": "|**1997-10-07**|**The N - Jet Inclusive Cross-Section in the Hard Pomeron Model**|Mikhail Braun et.al.|[hep-ph/9710263v1](http://arxiv.org/abs/hep-ph/9710263v1)|null|\n",
+    "2504.11229": "|**2025-04-15**|**The Forward-Forward Algorithm: Characterizing Training Behavior**|Reece Adamson et.al.|[2504.11229v1](http://arxiv.org/abs/2504.11229v1)|null|\n"
   },
   "SNN": {
     "2504.06134": "|**2025-04-08**|**SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions**|Simone Manoni et.al.|[2504.06134v1](http://arxiv.org/abs/2504.06134v1)|null|\n",
@@ -129,7 +130,7 @@
     "2504.00957": "|**2025-04-01**|**Enabling Efficient Processing of Spiking Neural Networks with On-Chip Learning on Commodity Neuromorphic Processors for Edge AI Systems**|Rachmad Vidya Wicaksana Putra et.al.|[2504.00957v1](http://arxiv.org/abs/2504.00957v1)|null|\n",
     "2504.00719": "|**2025-04-01**|**Scaling Up Resonate-and-Fire Networks for Fast Deep Learning**|Thomas E. Huber et.al.|[2504.00719v1](http://arxiv.org/abs/2504.00719v1)|null|\n",
     "2504.00679": "|**2025-04-01**|**QUEST: A Quantized Energy-Aware SNN Training Framework for Multi-State Neuromorphic Devices**|Sai Li et.al.|[2504.00679v1](http://arxiv.org/abs/2504.00679v1)|null|\n",
-    "2503.24389": "|**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|**[link](https://github.com/lwxfight/snn-underwater)**|\n",
+    "2503.24389": "|**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|null|\n",
     "2503.23767": "|**2025-03-31**|**Biologically Inspired Spiking Diffusion Model with Adaptive Lateral Selection Mechanism**|Linghao Feng et.al.|[2503.23767v1](http://arxiv.org/abs/2503.23767v1)|null|\n",
     "2503.21846": "|**2025-03-27**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|Yesmine Abdennadher et.al.|[2503.21846v1](http://arxiv.org/abs/2503.21846v1)|null|\n",
     "2503.21337": "|**2025-03-27**|**A 71.2-$\u03bc$W Speech Recognition Accelerator with Recurrent Spiking Neural Network**|Chih-Chyau Yang et.al.|[2503.21337v1](http://arxiv.org/abs/2503.21337v1)|null|\n",
@@ -224,7 +225,8 @@
     "2504.09796": "|**2025-04-14**|**Advancing RFI-Detection in Radio Astronomy with Liquid State Machines**|Nicholas J Pritchard et.al.|[2504.09796v1](http://arxiv.org/abs/2504.09796v1)|null|\n",
     "2504.09213": "|**2025-04-12**|**Spiking Neural Network for Intra-cortical Brain Signal Decoding**|Song Yang et.al.|[2504.09213v1](http://arxiv.org/abs/2504.09213v1)|null|\n",
     "2504.09110": "|**2025-04-12**|**Gaussian process regression with additive periodic kernels for two-body interaction analysis in coupled phase oscillators**|Ryosuke Yoneda et.al.|[2504.09110v1](http://arxiv.org/abs/2504.09110v1)|null|\n",
-    "2504.08897": "|**2025-04-11**|**Toward Spiking Neural Network Local Learning Modules Resistant to Adversarial Attacks**|Jiaqi Lin et.al.|[2504.08897v1](http://arxiv.org/abs/2504.08897v1)|null|\n"
+    "2504.08897": "|**2025-04-11**|**Toward Spiking Neural Network Local Learning Modules Resistant to Adversarial Attacks**|Jiaqi Lin et.al.|[2504.08897v1](http://arxiv.org/abs/2504.08897v1)|null|\n",
+    "2504.11026": "|**2025-04-15**|**A PyTorch-Compatible Spike Encoding Framework for Energy-Efficient Neuromorphic Applications**|Alexandru Vasilache et.al.|[2504.11026v1](http://arxiv.org/abs/2504.11026v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
