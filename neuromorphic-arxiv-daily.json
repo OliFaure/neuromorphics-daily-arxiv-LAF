@@ -238,7 +238,8 @@
     "2504.14371": "|**2025-04-19**|**Efficient Spiking Point Mamba for Point Cloud Analysis**|Peixi Wu et.al.|[2504.14371v1](http://arxiv.org/abs/2504.14371v1)|null|\n",
     "2504.14015": "|**2025-04-18**|**Causal pieces: analysing and improving spiking neural networks piece by piece**|Dominik Dold et.al.|[2504.14015v1](http://arxiv.org/abs/2504.14015v1)|null|\n",
     "2504.15613": "|**2025-04-22**|**Learning Dynamic Graphs via Tensorized and Lightweight Graph Convolutional Networks**|Minglian Han et.al.|[2504.15613v1](http://arxiv.org/abs/2504.15613v1)|null|\n",
-    "2504.16523": "|**2025-04-23**|**Alternately-optimized SNN method for acoustic scattering problem in unbounded domain**|Haoming Song et.al.|[2504.16523v1](http://arxiv.org/abs/2504.16523v1)|null|\n"
+    "2504.16523": "|**2025-04-23**|**Alternately-optimized SNN method for acoustic scattering problem in unbounded domain**|Haoming Song et.al.|[2504.16523v1](http://arxiv.org/abs/2504.16523v1)|null|\n",
+    "2504.17751": "|**2025-04-24**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751v1](http://arxiv.org/abs/2504.17751v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
