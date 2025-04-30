@@ -1,4 +1,4 @@
- Updated on 2025.04.29
+ Updated on 2025.04.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -63,7 +63,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250430>back to top</a>)</p>
 
 ## Forward Forward
 
@@ -137,12 +137,13 @@
 |**2011-12-27**|**Dihadron momentum imbalance and correlations in d+Au collisions**|Zhong-Bo Kang et.al.|[1112.6021v1](http://arxiv.org/abs/1112.6021v1)|null|
 |**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250430>back to top</a>)</p>
 
 ## SNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-29**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|Tianqing Zhang et.al.|[2504.20445v1](http://arxiv.org/abs/2504.20445v1)|null|
 |**2025-04-23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|Mohaddeseh Chegini et.al.|[2504.17819v1](http://arxiv.org/abs/2504.17819v1)|null|
 |**2025-04-25**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751v2](http://arxiv.org/abs/2504.17751v2)|null|
 |**2025-04-23**|**Alternately-optimized SNN method for acoustic scattering problem in unbounded domain**|Haoming Song et.al.|[2504.16523v1](http://arxiv.org/abs/2504.16523v1)|null|
@@ -215,8 +216,8 @@
 |**2025-03-05**|**Neural Models of Task Adaptation: A Tutorial on Spiking Networks for Executive Control**|Ashwin Viswanathan Kannan et.al.|[2503.03784v1](http://arxiv.org/abs/2503.03784v1)|null|
 |**2025-04-02**|**Prosperity: Accelerating Spiking Neural Networks via Product Sparsity**|Chiyue Wei et.al.|[2503.03379v2](http://arxiv.org/abs/2503.03379v2)|**[link](https://github.com/dubcyfor3/Prosperity)**|
 |**2025-03-06**|**Towards Effective and Sparse Adversarial Attack on Spiking Neural Networks via Breaking Invisible Surrogate Gradients**|Li Lun et.al.|[2503.03272v2](http://arxiv.org/abs/2503.03272v2)|**[link](https://github.com/ryime/pdsg-sda)**|
-|**2025-03-05**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144v1](http://arxiv.org/abs/2503.03144v1)|null|
-|**2025-03-05**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689v2](http://arxiv.org/abs/2503.02689v2)|null|
+|**2025-04-29**|**Temporal Separation with Entropy Regularization for Knowledge Distillation in Spiking Neural Networks**|Kairong Yu et.al.|[2503.03144v2](http://arxiv.org/abs/2503.03144v2)|null|
+|**2025-04-29**|**STAA-SNN: Spatial-Temporal Attention Aggregator for Spiking Neural Networks**|Tianqing Zhang et.al.|[2503.02689v3](http://arxiv.org/abs/2503.02689v3)|null|
 |**2025-03-04**|**Weight transport through spike timing for robust local gradients**|Timo Gierlich et.al.|[2503.02642v1](http://arxiv.org/abs/2503.02642v1)|**[link](https://github.com/unibe-cns/sal-code)**|
 |**2025-03-03**|**Mapping Spiking Neural Networks to Heterogeneous Crossbar Architectures using Integer Linear Programming**|Devin Pohl et.al.|[2503.02033v1](http://arxiv.org/abs/2503.02033v1)|null|
 |**2025-03-03**|**Sustainable AI: Mathematical Foundations of Spiking Neural Networks**|Adalbert Fono et.al.|[2503.02013v1](http://arxiv.org/abs/2503.02013v1)|null|
@@ -266,7 +267,7 @@
 |**2025-02-06**|**FAS: Fast ANN-SNN Conversion for Spiking Large Language Models**|Long Chen et.al.|[2502.04405v1](http://arxiv.org/abs/2502.04405v1)|null|
 |**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250430>back to top</a>)</p>
 
 ## Memristive Computing
 
@@ -277,5 +278,5 @@
 |**2022-08-21**|**Memristive Computing for Efficient Inference on Resource Constrained Devices**|Venkatesh Rammamoorthy et.al.|[2208.10490v1](http://arxiv.org/abs/2208.10490v1)|null|
 |**2021-05-31**|**Quantum-statistical transport phenomena in memristive computing architectures**|Christopher N. Singh et.al.|[1908.08070v2](http://arxiv.org/abs/1908.08070v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250429>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250430>back to top</a>)</p>
 
