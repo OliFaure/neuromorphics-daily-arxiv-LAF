@@ -116,7 +116,8 @@
     "0803.2273": "|**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|\n",
     "physics/0303108": "|**2003-03-26**|**A Gedanken spacecraft that operates using the quantum vacuum (Dynamic Casimir effect)**|G. Jordan Maclay et.al.|[physics/0303108v1](http://arxiv.org/abs/physics/0303108v1)|null|\n",
     "hep-ph/9710263": "|**1997-10-07**|**The N - Jet Inclusive Cross-Section in the Hard Pomeron Model**|Mikhail Braun et.al.|[hep-ph/9710263v1](http://arxiv.org/abs/hep-ph/9710263v1)|null|\n",
-    "2504.11229": "|**2025-04-15**|**The Forward-Forward Algorithm: Characterizing Training Behavior**|Reece Adamson et.al.|[2504.11229v1](http://arxiv.org/abs/2504.11229v1)|null|\n"
+    "2504.11229": "|**2025-04-15**|**The Forward-Forward Algorithm: Characterizing Training Behavior**|Reece Adamson et.al.|[2504.11229v1](http://arxiv.org/abs/2504.11229v1)|null|\n",
+    "2504.21662": "|**2025-04-30**|**On Advancements of the Forward-Forward Algorithm**|Mauricio Ortiz Torres et.al.|[2504.21662v1](http://arxiv.org/abs/2504.21662v1)|null|\n"
   },
   "SNN": {
     "2504.06134": "|**2025-04-08**|**SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions**|Simone Manoni et.al.|[2504.06134v1](http://arxiv.org/abs/2504.06134v1)|null|\n",
@@ -239,7 +240,7 @@
     "2504.14015": "|**2025-04-18**|**Causal pieces: analysing and improving spiking neural networks piece by piece**|Dominik Dold et.al.|[2504.14015v1](http://arxiv.org/abs/2504.14015v1)|null|\n",
     "2504.15613": "|**2025-04-22**|**Learning Dynamic Graphs via Tensorized and Lightweight Graph Convolutional Networks**|Minglian Han et.al.|[2504.15613v1](http://arxiv.org/abs/2504.15613v1)|null|\n",
     "2504.16523": "|**2025-04-23**|**Alternately-optimized SNN method for acoustic scattering problem in unbounded domain**|Haoming Song et.al.|[2504.16523v1](http://arxiv.org/abs/2504.16523v1)|null|\n",
-    "2504.17751": "|**2025-04-25**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751v2](http://arxiv.org/abs/2504.17751v2)|null|\n",
+    "2504.17751": "|**2025-04-29**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751v3](http://arxiv.org/abs/2504.17751v3)|null|\n",
     "2504.17819": "|**2025-04-23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|Mohaddeseh Chegini et.al.|[2504.17819v1](http://arxiv.org/abs/2504.17819v1)|null|\n",
     "2504.20445": "|**2025-04-29**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|Tianqing Zhang et.al.|[2504.20445v1](http://arxiv.org/abs/2504.20445v1)|null|\n"
   },
