@@ -133,7 +133,7 @@
     "2504.00679": "|**2025-04-01**|**QUEST: A Quantized Energy-Aware SNN Training Framework for Multi-State Neuromorphic Devices**|Sai Li et.al.|[2504.00679v1](http://arxiv.org/abs/2504.00679v1)|null|\n",
     "2503.24389": "|**2025-03-31**|**SU-YOLO: Spiking Neural Network for Efficient Underwater Object Detection**|Chenyang Li et.al.|[2503.24389v1](http://arxiv.org/abs/2503.24389v1)|null|\n",
     "2503.23767": "|**2025-03-31**|**Biologically Inspired Spiking Diffusion Model with Adaptive Lateral Selection Mechanism**|Linghao Feng et.al.|[2503.23767v1](http://arxiv.org/abs/2503.23767v1)|null|\n",
-    "2503.21846": "|**2025-03-27**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|Yesmine Abdennadher et.al.|[2503.21846v1](http://arxiv.org/abs/2503.21846v1)|null|\n",
+    "2503.21846": "|**2025-05-12**|**LightSNN: Lightweight Architecture Search for Sparse and Accurate Spiking Neural Networks**|Yesmine Abdennadher et.al.|[2503.21846v2](http://arxiv.org/abs/2503.21846v2)|**[link](https://github.com/YesmineAbdennadher/LightSNN)**|\n",
     "2503.21337": "|**2025-03-27**|**A 71.2-$\u03bc$W Speech Recognition Accelerator with Recurrent Spiking Neural Network**|Chih-Chyau Yang et.al.|[2503.21337v1](http://arxiv.org/abs/2503.21337v1)|null|\n",
     "2503.20485": "|**2025-03-26**|**Underwater Image Enhancement by Convolutional Spiking Neural Networks**|Vidya Sudevan et.al.|[2503.20485v1](http://arxiv.org/abs/2503.20485v1)|**[link](https://github.com/vidya-rejul/uie-snn)**|\n",
     "2503.20246": "|**2025-03-26**|**VESTA: A Versatile SNN-Based Transformer Accelerator with Unified PEs for Multiple Computational Layers**|Ching-Yao Chen et.al.|[2503.20246v1](http://arxiv.org/abs/2503.20246v1)|null|\n",
@@ -253,7 +253,13 @@
     "2505.05983": "|**2025-05-09**|**Architectural Exploration of Hybrid Neural Decoders for Neuromorphic Implantable BMI**|Vivek Mohan et.al.|[2505.05983v1](http://arxiv.org/abs/2505.05983v1)|null|\n",
     "2505.05794": "|**2025-05-09**|**What Is Next for LLMs? Next-Generation AI Computing Hardware Using Photonic Chips**|Renjie Li et.al.|[2505.05794v1](http://arxiv.org/abs/2505.05794v1)|null|\n",
     "2505.05527": "|**2025-05-08**|**ADMM-Based Training for Spiking Neural Networks**|Giovanni Perin et.al.|[2505.05527v1](http://arxiv.org/abs/2505.05527v1)|null|\n",
-    "2505.05489": "|**2025-04-30**|**Akkumula: Evidence accumulation driver models with Spiking Neural Networks**|Alberto Morando et.al.|[2505.05489v1](http://arxiv.org/abs/2505.05489v1)|null|\n"
+    "2505.05489": "|**2025-04-30**|**Akkumula: Evidence accumulation driver models with Spiking Neural Networks**|Alberto Morando et.al.|[2505.05489v1](http://arxiv.org/abs/2505.05489v1)|null|\n",
+    "2505.07715": "|**2025-05-12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|Qi Xu et.al.|[2505.07715v1](http://arxiv.org/abs/2505.07715v1)|null|\n",
+    "2505.07556": "|**2025-05-12**|**Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs**|Kamil Jeziorek et.al.|[2505.07556v1](http://arxiv.org/abs/2505.07556v1)|null|\n",
+    "2505.07336": "|**2025-05-12**|**SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction**|Zhixuan Zhang et.al.|[2505.07336v1](http://arxiv.org/abs/2505.07336v1)|null|\n",
+    "2505.06544": "|**2025-05-10**|**Event-based Neural Spike Detection Using Spiking Neural Networks for Neuromorphic iBMI Systems**|Chanwook Hwang et.al.|[2505.06544v1](http://arxiv.org/abs/2505.06544v1)|null|\n",
+    "2505.06417": "|**2025-05-09**|**Sigma-Delta Neural Network Conversion on Loihi 2**|Matthew Brehove et.al.|[2505.06417v1](http://arxiv.org/abs/2505.06417v1)|null|\n",
+    "2505.06299": "|**2025-05-07**|**Input-Specific and Universal Adversarial Attack Generation for Spiking Neural Networks in the Spiking Domain**|Spyridon Raptis et.al.|[2505.06299v1](http://arxiv.org/abs/2505.06299v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
