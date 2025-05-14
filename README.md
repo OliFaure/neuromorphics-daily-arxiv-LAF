@@ -1,4 +1,4 @@
- Updated on 2025.05.13
+ Updated on 2025.05.14
 
 <details>
   <summary>Table of Contents</summary>
@@ -63,7 +63,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250514>back to top</a>)</p>
 
 ## Forward Forward
 
@@ -138,12 +138,15 @@
 |**2011-12-27**|**Dihadron momentum imbalance and correlations in d+Au collisions**|Zhong-Bo Kang et.al.|[1112.6021v1](http://arxiv.org/abs/1112.6021v1)|null|
 |**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250514>back to top</a>)</p>
 
 ## SNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-13**|**Convolutional Spiking Neural Network for Image Classification**|Mikhail Kiselev et.al.|[2505.08514v1](http://arxiv.org/abs/2505.08514v1)|null|
+|**2025-05-13**|**Efficient, simulation-free estimators of firing rates with Markovian surrogates**|Zhongyi Wang et.al.|[2505.08254v1](http://arxiv.org/abs/2505.08254v1)|null|
+|**2025-05-12**|**Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning**|Qi Xu et.al.|[2505.07921v1](http://arxiv.org/abs/2505.07921v1)|null|
 |**2025-05-12**|**Hybrid Spiking Vision Transformer for Object Detection with Event Cameras**|Qi Xu et.al.|[2505.07715v1](http://arxiv.org/abs/2505.07715v1)|null|
 |**2025-05-12**|**Self-Supervised Event Representations: Towards Accurate, Real-Time Perception on SoC FPGAs**|Kamil Jeziorek et.al.|[2505.07556v1](http://arxiv.org/abs/2505.07556v1)|null|
 |**2025-05-12**|**SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction**|Zhixuan Zhang et.al.|[2505.07336v1](http://arxiv.org/abs/2505.07336v1)|null|
@@ -156,7 +159,7 @@
 |**2025-05-08**|**ADMM-Based Training for Spiking Neural Networks**|Giovanni Perin et.al.|[2505.05527v1](http://arxiv.org/abs/2505.05527v1)|null|
 |**2025-04-30**|**Akkumula: Evidence accumulation driver models with Spiking Neural Networks**|Alberto Morando et.al.|[2505.05489v1](http://arxiv.org/abs/2505.05489v1)|null|
 |**2025-05-09**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375v2](http://arxiv.org/abs/2505.05375v2)|**[link](https://github.com/nneurotransmitterr/tm-otta-snn)**|
-|**2025-05-08**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165v2](http://arxiv.org/abs/2505.04165v2)|null|
+|**2025-05-13**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165v3](http://arxiv.org/abs/2505.04165v3)|null|
 |**2025-05-07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|Ayana Moshruba et.al.|[2505.04034v1](http://arxiv.org/abs/2505.04034v1)|null|
 |**2025-05-03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|Eva Andrés et.al.|[2505.01735v1](http://arxiv.org/abs/2505.01735v1)|null|
 |**2025-05-03**|**PASCAL: Precise and Efficient ANN- SNN Conversion using Spike Accumulation and Adaptive Layerwise Activation**|Pranav Ramesh et.al.|[2505.01730v1](http://arxiv.org/abs/2505.01730v1)|null|
@@ -285,7 +288,7 @@
 |**2025-02-06**|**FAS: Fast ANN-SNN Conversion for Spiking Large Language Models**|Long Chen et.al.|[2502.04405v1](http://arxiv.org/abs/2502.04405v1)|null|
 |**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250514>back to top</a>)</p>
 
 ## Memristive Computing
 
@@ -296,5 +299,5 @@
 |**2022-08-21**|**Memristive Computing for Efficient Inference on Resource Constrained Devices**|Venkatesh Rammamoorthy et.al.|[2208.10490v1](http://arxiv.org/abs/2208.10490v1)|null|
 |**2021-05-31**|**Quantum-statistical transport phenomena in memristive computing architectures**|Christopher N. Singh et.al.|[1908.08070v2](http://arxiv.org/abs/1908.08070v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250513>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250514>back to top</a>)</p>
 

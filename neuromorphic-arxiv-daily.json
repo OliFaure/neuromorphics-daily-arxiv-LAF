@@ -246,7 +246,7 @@
     "2505.00999": "|**2025-05-02**|**Influence of the residual magnetic field on the azimuthal distribution of final-state particles in photon-nuclear processes**|Zhan Zhang et.al.|[2505.00999v1](http://arxiv.org/abs/2505.00999v1)|null|\n",
     "2505.01735": "|**2025-05-03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|Eva Andr\u00e9s et.al.|[2505.01735v1](http://arxiv.org/abs/2505.01735v1)|null|\n",
     "2505.01730": "|**2025-05-03**|**PASCAL: Precise and Efficient ANN- SNN Conversion using Spike Accumulation and Adaptive Layerwise Activation**|Pranav Ramesh et.al.|[2505.01730v1](http://arxiv.org/abs/2505.01730v1)|null|\n",
-    "2505.04165": "|**2025-05-08**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165v2](http://arxiv.org/abs/2505.04165v2)|null|\n",
+    "2505.04165": "|**2025-05-13**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165v3](http://arxiv.org/abs/2505.04165v3)|null|\n",
     "2505.04034": "|**2025-05-07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|Ayana Moshruba et.al.|[2505.04034v1](http://arxiv.org/abs/2505.04034v1)|null|\n",
     "2505.05375": "|**2025-05-09**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375v2](http://arxiv.org/abs/2505.05375v2)|**[link](https://github.com/nneurotransmitterr/tm-otta-snn)**|\n",
     "2505.05992": "|**2025-05-09**|**CogniSNN: A First Exploration to Random Graph Architecture based Spiking Neural Networks with Enhanced Expandability and Neuroplasticity**|Yongsheng Huang et.al.|[2505.05992v1](http://arxiv.org/abs/2505.05992v1)|null|\n",
@@ -259,7 +259,10 @@
     "2505.07336": "|**2025-05-12**|**SAEN-BGS: Energy-Efficient Spiking AutoEncoder Network for Background Subtraction**|Zhixuan Zhang et.al.|[2505.07336v1](http://arxiv.org/abs/2505.07336v1)|null|\n",
     "2505.06544": "|**2025-05-10**|**Event-based Neural Spike Detection Using Spiking Neural Networks for Neuromorphic iBMI Systems**|Chanwook Hwang et.al.|[2505.06544v1](http://arxiv.org/abs/2505.06544v1)|null|\n",
     "2505.06417": "|**2025-05-09**|**Sigma-Delta Neural Network Conversion on Loihi 2**|Matthew Brehove et.al.|[2505.06417v1](http://arxiv.org/abs/2505.06417v1)|null|\n",
-    "2505.06299": "|**2025-05-07**|**Input-Specific and Universal Adversarial Attack Generation for Spiking Neural Networks in the Spiking Domain**|Spyridon Raptis et.al.|[2505.06299v1](http://arxiv.org/abs/2505.06299v1)|null|\n"
+    "2505.06299": "|**2025-05-07**|**Input-Specific and Universal Adversarial Attack Generation for Spiking Neural Networks in the Spiking Domain**|Spyridon Raptis et.al.|[2505.06299v1](http://arxiv.org/abs/2505.06299v1)|null|\n",
+    "2505.08514": "|**2025-05-13**|**Convolutional Spiking Neural Network for Image Classification**|Mikhail Kiselev et.al.|[2505.08514v1](http://arxiv.org/abs/2505.08514v1)|null|\n",
+    "2505.08254": "|**2025-05-13**|**Efficient, simulation-free estimators of firing rates with Markovian surrogates**|Zhongyi Wang et.al.|[2505.08254v1](http://arxiv.org/abs/2505.08254v1)|null|\n",
+    "2505.07921": "|**2025-05-12**|**Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning**|Qi Xu et.al.|[2505.07921v1](http://arxiv.org/abs/2505.07921v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
