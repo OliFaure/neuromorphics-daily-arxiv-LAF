@@ -262,7 +262,11 @@
     "2505.06299": "|**2025-05-07**|**Input-Specific and Universal Adversarial Attack Generation for Spiking Neural Networks in the Spiking Domain**|Spyridon Raptis et.al.|[2505.06299v1](http://arxiv.org/abs/2505.06299v1)|null|\n",
     "2505.08514": "|**2025-05-13**|**Convolutional Spiking Neural Network for Image Classification**|Mikhail Kiselev et.al.|[2505.08514v1](http://arxiv.org/abs/2505.08514v1)|null|\n",
     "2505.08254": "|**2025-05-14**|**Efficient, simulation-free estimators of firing rates with Markovian surrogates**|Zhongyi Wang et.al.|[2505.08254v2](http://arxiv.org/abs/2505.08254v2)|null|\n",
-    "2505.07921": "|**2025-05-12**|**Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning**|Qi Xu et.al.|[2505.07921v1](http://arxiv.org/abs/2505.07921v1)|null|\n"
+    "2505.07921": "|**2025-05-15**|**Self-cross Feature based Spiking Neural Networks for Efficient Few-shot Learning**|Qi Xu et.al.|[2505.07921v2](http://arxiv.org/abs/2505.07921v2)|null|\n",
+    "2505.10371": "|**2025-05-15**|**ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks**|Kai Sun et.al.|[2505.10371v1](http://arxiv.org/abs/2505.10371v1)|null|\n",
+    "2505.10352": "|**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352v1](http://arxiv.org/abs/2505.10352v1)|null|\n",
+    "2505.10176": "|**2025-05-15**|**Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**|Xiang He et.al.|[2505.10176v1](http://arxiv.org/abs/2505.10176v1)|**[link](https://github.com/Brain-Cog-Lab/IEMF)**|\n",
+    "2505.09659": "|**2025-05-14**|**LAS: Loss-less ANN-SNN Conversion for Fully Spike-Driven Large Language Models**|Long Chen et.al.|[2505.09659v1](http://arxiv.org/abs/2505.09659v1)|**[link](https://github.com/lc783/las)**|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
