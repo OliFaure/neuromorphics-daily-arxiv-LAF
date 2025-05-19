@@ -1,4 +1,4 @@
- Updated on 2025.05.18
+ Updated on 2025.05.19
 
 <details>
   <summary>Table of Contents</summary>
@@ -63,7 +63,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 
 ## Forward Forward
 
@@ -138,12 +138,20 @@
 |**2011-12-27**|**Dihadron momentum imbalance and correlations in d+Au collisions**|Zhong-Bo Kang et.al.|[1112.6021v1](http://arxiv.org/abs/1112.6021v1)|null|
 |**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 
 ## SNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**ASRC-SNN: Adaptive Skip Recurrent Connection Spiking Neural Network**|Shang Xu et.al.|[2505.11455v1](http://arxiv.org/abs/2505.11455v1)|null|
+|**2025-05-16**|**Neuromorphic Imaging Flow Cytometry combined with Adaptive Recurrent Spiking Neural Networks**|Georgios Moustakas et.al.|[2505.11433v1](http://arxiv.org/abs/2505.11433v1)|null|
+|**2025-05-16**|**Energy efficiency analysis of Spiking Neural Networks for space applications**|Paolo Lunghi et.al.|[2505.11418v1](http://arxiv.org/abs/2505.11418v1)|null|
+|**2025-05-16**|**Lightweight LIF-only SNN accelerator using differential time encoding**|Daniel Windhager et.al.|[2505.11252v1](http://arxiv.org/abs/2505.11252v1)|null|
+|**2025-05-16**|**STEP: A Unified Spiking Transformer Evaluation Platform for Fair and Reproducible Benchmarking**|Sicheng Shen et.al.|[2505.11151v1](http://arxiv.org/abs/2505.11151v1)|null|
+|**2025-05-16**|**Towards Robust Spiking Neural Networks:Mitigating Heterogeneous Training Vulnerability via Dominant Eigencomponent Projection**|Desong Zhang et.al.|[2505.11134v1](http://arxiv.org/abs/2505.11134v1)|null|
+|**2025-05-16**|**Phi: Leveraging Pattern-based Hierarchical Sparsity for High-Efficiency Spiking Neural Networks**|Chiyue Wei et.al.|[2505.10909v1](http://arxiv.org/abs/2505.10909v1)|null|
+|**2025-05-16**|**Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree**|Yee Hin Chong et.al.|[2505.10771v1](http://arxiv.org/abs/2505.10771v1)|null|
 |**2025-05-15**|**ILIF: Temporal Inhibitory Leaky Integrate-and-Fire Neuron for Overactivation in Spiking Neural Networks**|Kai Sun et.al.|[2505.10371v1](http://arxiv.org/abs/2505.10371v1)|null|
 |**2025-05-15**|**SpikeVideoFormer: An Efficient Spike-Driven Video Transformer with Hamming Attention and $\mathcal{O}(T)$ Complexity**|Shihao Zou et.al.|[2505.10352v1](http://arxiv.org/abs/2505.10352v1)|null|
 |**2025-05-15**|**Incorporating brain-inspired mechanisms for multimodal learning in artificial intelligence**|Xiang He et.al.|[2505.10176v1](http://arxiv.org/abs/2505.10176v1)|**[link](https://github.com/Brain-Cog-Lab/IEMF)**|
@@ -163,12 +171,12 @@
 |**2025-05-08**|**ADMM-Based Training for Spiking Neural Networks**|Giovanni Perin et.al.|[2505.05527v1](http://arxiv.org/abs/2505.05527v1)|null|
 |**2025-04-30**|**Akkumula: Evidence accumulation driver models with Spiking Neural Networks**|Alberto Morando et.al.|[2505.05489v1](http://arxiv.org/abs/2505.05489v1)|null|
 |**2025-05-09**|**Threshold Modulation for Online Test-Time Adaptation of Spiking Neural Networks**|Kejie Zhao et.al.|[2505.05375v2](http://arxiv.org/abs/2505.05375v2)|**[link](https://github.com/nneurotransmitterr/tm-otta-snn)**|
-|**2025-05-13**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165v3](http://arxiv.org/abs/2505.04165v3)|null|
+|**2025-05-16**|**TS-SNN: Temporal Shift Module for Spiking Neural Networks**|Kairong Yu et.al.|[2505.04165v4](http://arxiv.org/abs/2505.04165v4)|null|
 |**2025-05-07**|**Izhikevich-Inspired Temporal Dynamics for Enhancing Privacy, Efficiency, and Transferability in Spiking Neural Networks**|Ayana Moshruba et.al.|[2505.04034v1](http://arxiv.org/abs/2505.04034v1)|null|
 |**2025-05-03**|**Brain-Inspired Quantum Neural Architectures for Pattern Recognition: Integrating QSNN and QLSTM**|Eva Andrés et.al.|[2505.01735v1](http://arxiv.org/abs/2505.01735v1)|null|
 |**2025-05-03**|**PASCAL: Precise and Efficient ANN- SNN Conversion using Spike Accumulation and Adaptive Layerwise Activation**|Pranav Ramesh et.al.|[2505.01730v1](http://arxiv.org/abs/2505.01730v1)|null|
 |**2025-05-02**|**Influence of the residual magnetic field on the azimuthal distribution of final-state particles in photon-nuclear processes**|Zhan Zhang et.al.|[2505.00999v1](http://arxiv.org/abs/2505.00999v1)|null|
-|**2025-04-29**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|Tianqing Zhang et.al.|[2504.20445v1](http://arxiv.org/abs/2504.20445v1)|null|
+|**2025-05-16**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|Tianqing Zhang et.al.|[2504.20445v2](http://arxiv.org/abs/2504.20445v2)|null|
 |**2025-04-23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|Mohaddeseh Chegini et.al.|[2504.17819v1](http://arxiv.org/abs/2504.17819v1)|null|
 |**2025-04-29**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751v3](http://arxiv.org/abs/2504.17751v3)|null|
 |**2025-04-23**|**Alternately-optimized SNN method for acoustic scattering problem in unbounded domain**|Haoming Song et.al.|[2504.16523v1](http://arxiv.org/abs/2504.16523v1)|null|
@@ -292,7 +300,7 @@
 |**2025-02-06**|**FAS: Fast ANN-SNN Conversion for Spiking Large Language Models**|Long Chen et.al.|[2502.04405v1](http://arxiv.org/abs/2502.04405v1)|null|
 |**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 
 ## Memristive Computing
 
@@ -303,5 +311,5 @@
 |**2022-08-21**|**Memristive Computing for Efficient Inference on Resource Constrained Devices**|Venkatesh Rammamoorthy et.al.|[2208.10490v1](http://arxiv.org/abs/2208.10490v1)|null|
 |**2021-05-31**|**Quantum-statistical transport phenomena in memristive computing architectures**|Christopher N. Singh et.al.|[1908.08070v2](http://arxiv.org/abs/1908.08070v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250518>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250519>back to top</a>)</p>
 
