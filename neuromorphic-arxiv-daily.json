@@ -118,7 +118,7 @@
     "hep-ph/9710263": "|**1997-10-07**|**The N - Jet Inclusive Cross-Section in the Hard Pomeron Model**|Mikhail Braun et.al.|[hep-ph/9710263v1](http://arxiv.org/abs/hep-ph/9710263v1)|null|\n",
     "2504.11229": "|**2025-04-15**|**The Forward-Forward Algorithm: Characterizing Training Behavior**|Reece Adamson et.al.|[2504.11229v1](http://arxiv.org/abs/2504.11229v1)|null|\n",
     "2504.21662": "|**2025-04-30**|**On Advancements of the Forward-Forward Algorithm**|Mauricio Ortiz Torres et.al.|[2504.21662v1](http://arxiv.org/abs/2504.21662v1)|null|\n",
-    "2505.16649": "|**2025-05-22**|**Stochastic Forward-Forward Learning through Representational Dimensionality Compression**|Zhichao Zhu et.al.|[2505.16649v1](http://arxiv.org/abs/2505.16649v1)|null|\n"
+    "2505.16649": "|**2025-05-22**|**Stochastic Forward-Forward Learning through Representational Dimensionality Compression**|Zhichao Zhu et.al.|[2505.16649v1](http://arxiv.org/abs/2505.16649v1)|**[link](https://github.com/zhichaozhu/stochasticforwardforward)**|\n"
   },
   "SNN": {
     "2504.06134": "|**2025-04-08**|**SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions**|Simone Manoni et.al.|[2504.06134v1](http://arxiv.org/abs/2504.06134v1)|null|\n",
@@ -290,9 +290,13 @@
     "2505.13741": "|**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741v1](http://arxiv.org/abs/2505.13741v1)|null|\n",
     "2505.13622": "|**2025-05-19**|**Spiking Neural Networks with Random Network Architecture**|Zihan Dai et.al.|[2505.13622v1](http://arxiv.org/abs/2505.13622v1)|**[link](https://github.com/asd0731/spiking-neural-networks-with-random-network-architecture)**|\n",
     "2505.14719": "|**2025-05-19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|Wei Hua et.al.|[2505.14719v1](http://arxiv.org/abs/2505.14719v1)|null|\n",
-    "2505.15840": "|**2025-05-17**|**TDFormer: A Top-Down Attention-Controlled Spiking Transformer**|Zizheng Zhu et.al.|[2505.15840v1](http://arxiv.org/abs/2505.15840v1)|null|\n",
+    "2505.15840": "|**2025-05-23**|**TDFormer: A Top-Down Attention-Controlled Spiking Transformer**|Zizheng Zhu et.al.|[2505.15840v2](http://arxiv.org/abs/2505.15840v2)|null|\n",
     "2505.15833": "|**2025-05-16**|**Adversarially Robust Spiking Neural Networks with Sparse Connectivity**|Mathias Schmolli et.al.|[2505.15833v1](http://arxiv.org/abs/2505.15833v1)|null|\n",
-    "2505.14841": "|**2025-04-14**|**Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks**|Yuchen Tian et.al.|[2505.14841v1](http://arxiv.org/abs/2505.14841v1)|null|\n"
+    "2505.14841": "|**2025-04-14**|**Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks**|Yuchen Tian et.al.|[2505.14841v1](http://arxiv.org/abs/2505.14841v1)|null|\n",
+    "2505.18023": "|**2025-05-23**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|Duc Anh Nguyen et.al.|[2505.18023v1](http://arxiv.org/abs/2505.18023v1)|null|\n",
+    "2505.17962": "|**2025-05-23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|James A. Walker et.al.|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|null|\n",
+    "2505.17738": "|**2025-05-23**|**Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand**|Fengyi Wang et.al.|[2505.17738v1](http://arxiv.org/abs/2505.17738v1)|null|\n",
+    "2505.17674": "|**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674v1](http://arxiv.org/abs/2505.17674v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
