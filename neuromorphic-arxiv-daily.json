@@ -241,7 +241,7 @@
     "2504.14015": "|**2025-04-18**|**Causal pieces: analysing and improving spiking neural networks piece by piece**|Dominik Dold et.al.|[2504.14015v1](http://arxiv.org/abs/2504.14015v1)|null|\n",
     "2504.15613": "|**2025-04-22**|**Learning Dynamic Graphs via Tensorized and Lightweight Graph Convolutional Networks**|Minglian Han et.al.|[2504.15613v1](http://arxiv.org/abs/2504.15613v1)|null|\n",
     "2504.16523": "|**2025-04-23**|**Alternately-optimized SNN method for acoustic scattering problem in unbounded domain**|Haoming Song et.al.|[2504.16523v1](http://arxiv.org/abs/2504.16523v1)|null|\n",
-    "2504.17751": "|**2025-04-29**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751v3](http://arxiv.org/abs/2504.17751v3)|null|\n",
+    "2504.17751": "|**2025-05-25**|**Revisiting Reset Mechanisms in Spiking Neural Networks for Sequential Modeling: Specialized Discretization for Binary Activated RNN**|Enqi Zhang et.al.|[2504.17751v4](http://arxiv.org/abs/2504.17751v4)|null|\n",
     "2504.17819": "|**2025-04-23**|**A Deep Bayesian Convolutional Spiking Neural Network-based CAD system with Uncertainty Quantification for Medical Images Classification**|Mohaddeseh Chegini et.al.|[2504.17819v1](http://arxiv.org/abs/2504.17819v1)|null|\n",
     "2504.20445": "|**2025-05-16**|**Head-Tail-Aware KL Divergence in Knowledge Distillation for Spiking Neural Networks**|Tianqing Zhang et.al.|[2504.20445v2](http://arxiv.org/abs/2504.20445v2)|null|\n",
     "2505.00999": "|**2025-05-02**|**Influence of the residual magnetic field on the azimuthal distribution of final-state particles in photon-nuclear processes**|Zhan Zhang et.al.|[2505.00999v1](http://arxiv.org/abs/2505.00999v1)|null|\n",
@@ -278,7 +278,7 @@
     "2505.10771": "|**2025-05-19**|**Pipelining Kruskal's: A Neuromorphic Approach for Minimum Spanning Tree**|Yee Hin Chong et.al.|[2505.10771v2](http://arxiv.org/abs/2505.10771v2)|null|\n",
     "2505.13309": "|**2025-05-19**|**eStonefish-scenes: A synthetically generated dataset for underwater event-based optical flow prediction tasks**|Jad Mansour et.al.|[2505.13309v1](http://arxiv.org/abs/2505.13309v1)|null|\n",
     "2505.12771": "|**2025-05-19**|**FireFly-T: High-Throughput Sparsity Exploitation for Spiking Transformer Acceleration with Dual-Engine Overlay Architecture**|Tenglong Li et.al.|[2505.12771v1](http://arxiv.org/abs/2505.12771v1)|null|\n",
-    "2505.12656": "|**2025-05-19**|**SPKLIP: Aligning Spike Video Streams with Natural Language**|Yongchang Gao et.al.|[2505.12656v1](http://arxiv.org/abs/2505.12656v1)|null|\n",
+    "2505.12656": "|**2025-05-26**|**SPKLIP: Aligning Spike Video Streams with Natural Language**|Yongchang Gao et.al.|[2505.12656v2](http://arxiv.org/abs/2505.12656v2)|null|\n",
     "2505.12647": "|**2025-05-19**|**Spiking Neural Network: a low power solution for physical layer authentication**|Jung Hoon Lee et.al.|[2505.12647v1](http://arxiv.org/abs/2505.12647v1)|null|\n",
     "2505.12292": "|**2025-05-18**|**SpikeX: Exploring Accelerator Architecture and Network-Hardware Co-Optimization for Sparse Spiking Neural Networks**|Boxun Xu et.al.|[2505.12292v1](http://arxiv.org/abs/2505.12292v1)|null|\n",
     "2505.12281": "|**2025-05-18**|**Bishop: Sparsified Bundling Spiking Transformers on Heterogeneous Cores with Error-Constrained Pruning**|Boxun Xu et.al.|[2505.12281v1](http://arxiv.org/abs/2505.12281v1)|null|\n",
@@ -296,7 +296,10 @@
     "2505.18023": "|**2025-05-23**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|Duc Anh Nguyen et.al.|[2505.18023v1](http://arxiv.org/abs/2505.18023v1)|null|\n",
     "2505.17962": "|**2025-05-23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|James A. Walker et.al.|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|null|\n",
     "2505.17738": "|**2025-05-23**|**Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand**|Fengyi Wang et.al.|[2505.17738v1](http://arxiv.org/abs/2505.17738v1)|null|\n",
-    "2505.17674": "|**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674v1](http://arxiv.org/abs/2505.17674v1)|null|\n"
+    "2505.17674": "|**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674v1](http://arxiv.org/abs/2505.17674v1)|null|\n",
+    "2505.19938": "|**2025-05-26**|**Multi-Timescale Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2505.19938v1](http://arxiv.org/abs/2505.19938v1)|null|\n",
+    "2505.19487": "|**2025-05-26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|Zhuoheng Gao et.al.|[2505.19487v1](http://arxiv.org/abs/2505.19487v1)|null|\n",
+    "2505.18608": "|**2025-05-24**|**Spiking Transformers Need High Frequency Information**|Yuetong Fang et.al.|[2505.18608v1](http://arxiv.org/abs/2505.18608v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
