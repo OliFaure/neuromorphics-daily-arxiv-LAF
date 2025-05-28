@@ -51,7 +51,7 @@
   },
   "Forward Forward": {
     "2502.20113": "|**2025-02-27**|**Forward-Cooperation-Backward (FCB) learning in a Multi-Encoding Uni-Decoding neural network architecture**|Prasun Dutta et.al.|[2502.20113v1](http://arxiv.org/abs/2502.20113v1)|null|\n",
-    "2502.20411": "|**2025-02-19**|**Backpropagation-free Spiking Neural Networks with the Forward-Forward Algorithm**|Mohammadnavid Ghader et.al.|[2502.20411v1](http://arxiv.org/abs/2502.20411v1)|null|\n",
+    "2502.20411": "|**2025-05-27**|**Backpropagation-free Spiking Neural Networks with the Forward-Forward Algorithm**|Mohammadnavid Ghader et.al.|[2502.20411v2](http://arxiv.org/abs/2502.20411v2)|null|\n",
     "2502.00571": "|**2025-02-01**|**Contrastive Forward-Forward: A Training Algorithm of Vision Transformer**|Hossein Aghagolzadeh et.al.|[2502.00571v1](http://arxiv.org/abs/2502.00571v1)|null|\n",
     "2501.09238": "|**2025-01-16**|**Mono-Forward: Backpropagation-Free Algorithm for Efficient Neural Network Training Harnessing Local Errors**|James Gong et.al.|[2501.09238v1](http://arxiv.org/abs/2501.09238v1)|null|\n",
     "2501.03176": "|**2025-01-06**|**Scalable Forward-Forward Algorithm**|Andrii Krutsylo et.al.|[2501.03176v1](http://arxiv.org/abs/2501.03176v1)|null|\n",
@@ -299,7 +299,10 @@
     "2505.17674": "|**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674v1](http://arxiv.org/abs/2505.17674v1)|null|\n",
     "2505.19938": "|**2025-05-26**|**Multi-Timescale Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2505.19938v1](http://arxiv.org/abs/2505.19938v1)|null|\n",
     "2505.19487": "|**2025-05-26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|Zhuoheng Gao et.al.|[2505.19487v1](http://arxiv.org/abs/2505.19487v1)|null|\n",
-    "2505.18608": "|**2025-05-24**|**Spiking Transformers Need High Frequency Information**|Yuetong Fang et.al.|[2505.18608v1](http://arxiv.org/abs/2505.18608v1)|null|\n"
+    "2505.18608": "|**2025-05-24**|**Spiking Transformers Need High Frequency Information**|Yuetong Fang et.al.|[2505.18608v1](http://arxiv.org/abs/2505.18608v1)|null|\n",
+    "2505.21185": "|**2025-05-27**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185v1](http://arxiv.org/abs/2505.21185v1)|null|\n",
+    "2505.20835": "|**2025-05-27**|**ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks**|Di Yu et.al.|[2505.20835v1](http://arxiv.org/abs/2505.20835v1)|null|\n",
+    "2505.20834": "|**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
