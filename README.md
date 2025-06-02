@@ -1,4 +1,4 @@
- Updated on 2025.06.01
+ Updated on 2025.06.02
 
 <details>
   <summary>Table of Contents</summary>
@@ -63,7 +63,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 ## Forward Forward
 
@@ -139,16 +139,19 @@
 |**2011-12-27**|**Dihadron momentum imbalance and correlations in d+Au collisions**|Zhong-Bo Kang et.al.|[1112.6021v1](http://arxiv.org/abs/1112.6021v1)|null|
 |**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 ## SNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401v1](http://arxiv.org/abs/2505.24401v1)|null|
+|**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161v1](http://arxiv.org/abs/2505.24161v1)|null|
+|**2025-05-30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137v1](http://arxiv.org/abs/2505.24137v1)|null|
 |**2025-05-28**|**PdNeuRAM: Forming-Free, Multi-Bit Pd/HfO2 ReRAM for Energy-Efficient Computing**|Erbing Hua et.al.|[2505.22789v1](http://arxiv.org/abs/2505.22789v1)|null|
 |**2025-05-28**|**Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing**|Xinyi Chen et.al.|[2505.22035v1](http://arxiv.org/abs/2505.22035v1)|null|
 |**2025-05-27**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185v1](http://arxiv.org/abs/2505.21185v1)|null|
-|**2025-05-27**|**ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks**|Di Yu et.al.|[2505.20835v1](http://arxiv.org/abs/2505.20835v1)|null|
+|**2025-05-27**|**ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks**|Di Yu et.al.|[2505.20835v1](http://arxiv.org/abs/2505.20835v1)|**[link](https://github.com/AmazingDD/ECC-SNN)**|
 |**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|null|
 |**2025-05-26**|**Multi-Timescale Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2505.19938v1](http://arxiv.org/abs/2505.19938v1)|null|
 |**2025-05-26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|Zhuoheng Gao et.al.|[2505.19487v1](http://arxiv.org/abs/2505.19487v1)|null|
@@ -330,7 +333,7 @@
 |**2025-02-06**|**FAS: Fast ANN-SNN Conversion for Spiking Large Language Models**|Long Chen et.al.|[2502.04405v1](http://arxiv.org/abs/2502.04405v1)|null|
 |**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 
 ## Memristive Computing
 
@@ -341,5 +344,5 @@
 |**2022-08-21**|**Memristive Computing for Efficient Inference on Resource Constrained Devices**|Venkatesh Rammamoorthy et.al.|[2208.10490v1](http://arxiv.org/abs/2208.10490v1)|null|
 |**2021-05-31**|**Quantum-statistical transport phenomena in memristive computing architectures**|Christopher N. Singh et.al.|[1908.08070v2](http://arxiv.org/abs/1908.08070v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250601>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250602>back to top</a>)</p>
 

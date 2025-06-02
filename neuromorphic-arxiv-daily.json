@@ -301,10 +301,13 @@
     "2505.19487": "|**2025-05-26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|Zhuoheng Gao et.al.|[2505.19487v1](http://arxiv.org/abs/2505.19487v1)|null|\n",
     "2505.18608": "|**2025-05-24**|**Spiking Transformers Need High Frequency Information**|Yuetong Fang et.al.|[2505.18608v1](http://arxiv.org/abs/2505.18608v1)|null|\n",
     "2505.21185": "|**2025-05-27**|**Constructive community race: full-density spiking neural network model drives neuromorphic computing**|Johanna Senk et.al.|[2505.21185v1](http://arxiv.org/abs/2505.21185v1)|null|\n",
-    "2505.20835": "|**2025-05-27**|**ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks**|Di Yu et.al.|[2505.20835v1](http://arxiv.org/abs/2505.20835v1)|null|\n",
+    "2505.20835": "|**2025-05-27**|**ECC-SNN: Cost-Effective Edge-Cloud Collaboration for Spiking Neural Networks**|Di Yu et.al.|[2505.20835v1](http://arxiv.org/abs/2505.20835v1)|**[link](https://github.com/AmazingDD/ECC-SNN)**|\n",
     "2505.20834": "|**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|null|\n",
     "2505.22035": "|**2025-05-28**|**Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing**|Xinyi Chen et.al.|[2505.22035v1](http://arxiv.org/abs/2505.22035v1)|null|\n",
-    "2505.22789": "|**2025-05-28**|**PdNeuRAM: Forming-Free, Multi-Bit Pd/HfO2 ReRAM for Energy-Efficient Computing**|Erbing Hua et.al.|[2505.22789v1](http://arxiv.org/abs/2505.22789v1)|null|\n"
+    "2505.22789": "|**2025-05-28**|**PdNeuRAM: Forming-Free, Multi-Bit Pd/HfO2 ReRAM for Energy-Efficient Computing**|Erbing Hua et.al.|[2505.22789v1](http://arxiv.org/abs/2505.22789v1)|null|\n",
+    "2505.24401": "|**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401v1](http://arxiv.org/abs/2505.24401v1)|null|\n",
+    "2505.24161": "|**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161v1](http://arxiv.org/abs/2505.24161v1)|null|\n",
+    "2505.24137": "|**2025-05-30**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137v1](http://arxiv.org/abs/2505.24137v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
