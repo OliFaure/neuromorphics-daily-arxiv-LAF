@@ -305,7 +305,7 @@
     "2505.20834": "|**2025-05-27**|**Fully Spiking Neural Networks for Unified Frame-Event Object Tracking**|Jingjun Yang et.al.|[2505.20834v1](http://arxiv.org/abs/2505.20834v1)|null|\n",
     "2505.22035": "|**2025-05-28**|**Neuromorphic Sequential Arena: A Benchmark for Neuromorphic Temporal Processing**|Xinyi Chen et.al.|[2505.22035v1](http://arxiv.org/abs/2505.22035v1)|null|\n",
     "2505.22789": "|**2025-05-28**|**PdNeuRAM: Forming-Free, Multi-Bit Pd/HfO2 ReRAM for Energy-Efficient Computing**|Erbing Hua et.al.|[2505.22789v1](http://arxiv.org/abs/2505.22789v1)|null|\n",
-    "2505.24401": "|**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401v1](http://arxiv.org/abs/2505.24401v1)|null|\n",
+    "2505.24401": "|**2025-05-30**|**S3CE-Net: Spike-guided Spatiotemporal Semantic Coupling and Expansion Network for Long Sequence Event Re-Identification**|Xianheng Ma et.al.|[2505.24401v1](http://arxiv.org/abs/2505.24401v1)|**[link](https://github.com/mhsunshine/sc3e_net)**|\n",
     "2505.24161": "|**2025-05-30**|**Proxy Target: Bridging the Gap Between Discrete Spiking Neural Networks and Continuous Control**|Zijie Xu et.al.|[2505.24161v1](http://arxiv.org/abs/2505.24161v1)|null|\n",
     "2505.24137": "|**2025-06-05**|**Energy-Oriented Computing Architecture Simulator for SNN Training**|Yunhao Ma et.al.|[2505.24137v2](http://arxiv.org/abs/2505.24137v2)|null|\n",
     "2506.02842": "|**2025-06-03**|**Sheaves Reloaded: A Directional Awakening**|Stefano Fiorini et.al.|[2506.02842v1](http://arxiv.org/abs/2506.02842v1)|null|\n",
@@ -320,7 +320,12 @@
     "2506.04817": "|**2025-06-05**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|Gabriele Magrini. Federico Becattini et.al.|[2506.04817v1](http://arxiv.org/abs/2506.04817v1)|null|\n",
     "2506.04526": "|**2025-06-05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|Shuo Zhang et.al.|[2506.04526v1](http://arxiv.org/abs/2506.04526v1)|null|\n",
     "2506.06265": "|**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|null|\n",
-    "2506.05679": "|**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|null|\n"
+    "2506.05679": "|**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|null|\n",
+    "2506.07878": "|**2025-06-09**|**Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow**|Muhammad Ahmed Humais et.al.|[2506.07878v1](http://arxiv.org/abs/2506.07878v1)|null|\n",
+    "2506.07737": "|**2025-06-09**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737v1](http://arxiv.org/abs/2506.07737v1)|null|\n",
+    "2506.07720": "|**2025-06-09**|**ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks**|Yufei Guo et.al.|[2506.07720v1](http://arxiv.org/abs/2506.07720v1)|null|\n",
+    "2506.06750": "|**2025-06-07**|**Bio-Inspired Classification: Combining Information Theory and Spiking Neural Networks -- Influence of the Learning Rules**|Zofia Rudnicka et.al.|[2506.06750v1](http://arxiv.org/abs/2506.06750v1)|null|\n",
+    "2506.06374": "|**2025-06-04**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|Maxime Fabre et.al.|[2506.06374v1](http://arxiv.org/abs/2506.06374v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
