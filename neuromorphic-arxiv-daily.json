@@ -293,7 +293,7 @@
     "2505.15840": "|**2025-05-23**|**TDFormer: A Top-Down Attention-Controlled Spiking Transformer**|Zizheng Zhu et.al.|[2505.15840v2](http://arxiv.org/abs/2505.15840v2)|null|\n",
     "2505.15833": "|**2025-05-16**|**Adversarially Robust Spiking Neural Networks with Sparse Connectivity**|Mathias Schmolli et.al.|[2505.15833v1](http://arxiv.org/abs/2505.15833v1)|null|\n",
     "2505.14841": "|**2025-04-14**|**Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks**|Yuchen Tian et.al.|[2505.14841v1](http://arxiv.org/abs/2505.14841v1)|null|\n",
-    "2505.18023": "|**2025-05-23**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|Duc Anh Nguyen et.al.|[2505.18023v1](http://arxiv.org/abs/2505.18023v1)|null|\n",
+    "2505.18023": "|**2025-06-13**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|Duc Anh Nguyen et.al.|[2505.18023v2](http://arxiv.org/abs/2505.18023v2)|null|\n",
     "2505.17962": "|**2025-05-23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|James A. Walker et.al.|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|null|\n",
     "2505.17738": "|**2025-05-23**|**Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand**|Fengyi Wang et.al.|[2505.17738v1](http://arxiv.org/abs/2505.17738v1)|null|\n",
     "2505.17674": "|**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674v1](http://arxiv.org/abs/2505.17674v1)|null|\n",
@@ -325,13 +325,15 @@
     "2506.07737": "|**2025-06-11**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737v2](http://arxiv.org/abs/2506.07737v2)|null|\n",
     "2506.07720": "|**2025-06-09**|**ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks**|Yufei Guo et.al.|[2506.07720v1](http://arxiv.org/abs/2506.07720v1)|null|\n",
     "2506.06750": "|**2025-06-07**|**Bio-Inspired Classification: Combining Information Theory and Spiking Neural Networks -- Influence of the Learning Rules**|Zofia Rudnicka et.al.|[2506.06750v1](http://arxiv.org/abs/2506.06750v1)|null|\n",
-    "2506.06374": "|**2025-06-04**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|Maxime Fabre et.al.|[2506.06374v1](http://arxiv.org/abs/2506.06374v1)|**[link](https://github.com/maxtimer97/ssm-inspired-lif)**|\n",
+    "2506.06374": "|**2025-06-13**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|Maxime Fabre et.al.|[2506.06374v2](http://arxiv.org/abs/2506.06374v2)|**[link](https://github.com/maxtimer97/ssm-inspired-lif)**|\n",
     "2506.08842": "|**2025-06-10**|**STI-SNN: A 0.14 GOPS/W/PE Single-Timestep Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et.al.|[2506.08842v1](http://arxiv.org/abs/2506.08842v1)|null|\n",
     "2506.08138": "|**2025-06-09**|**A Practical Guide to Tuning Spiking Neuronal Dynamics**|William Gebhardt et.al.|[2506.08138v1](http://arxiv.org/abs/2506.08138v1)|**[link](https://github.com/naclab/snndynamicspracticalguide)**|\n",
     "2506.09695": "|**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695v1](http://arxiv.org/abs/2506.09695v1)|**[link](https://github.com/wuchangw/fastersnn)**|\n",
     "2506.09599": "|**2025-06-11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|Enrique Barba Roque et.al.|[2506.09599v1](http://arxiv.org/abs/2506.09599v1)|null|\n",
     "2506.09194": "|**2025-06-10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|Emirhan Bilgi\u00e7 et.al.|[2506.09194v1](http://arxiv.org/abs/2506.09194v1)|null|\n",
-    "2506.09087": "|**2025-06-10**|**Spiking Neural Models for Decision-Making Tasks with Learning**|Sophie Jaffard et.al.|[2506.09087v1](http://arxiv.org/abs/2506.09087v1)|null|\n"
+    "2506.09087": "|**2025-06-10**|**Spiking Neural Models for Decision-Making Tasks with Learning**|Sophie Jaffard et.al.|[2506.09087v1](http://arxiv.org/abs/2506.09087v1)|null|\n",
+    "2506.11760": "|**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760v1](http://arxiv.org/abs/2506.11760v1)|null|\n",
+    "2506.11286": "|**2025-06-12**|**Mapping and Scheduling Spiking Neural Networks On Segmented Ladder Bus Architectures**|Phu Khanh Huynh et.al.|[2506.11286v1](http://arxiv.org/abs/2506.11286v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",

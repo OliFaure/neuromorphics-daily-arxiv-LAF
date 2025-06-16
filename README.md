@@ -1,4 +1,4 @@
- Updated on 2025.06.14
+ Updated on 2025.06.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -63,7 +63,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
 
 ## Forward Forward
 
@@ -139,12 +139,14 @@
 |**2011-12-27**|**Dihadron momentum imbalance and correlations in d+Au collisions**|Zhong-Bo Kang et.al.|[1112.6021v1](http://arxiv.org/abs/1112.6021v1)|null|
 |**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
 
 ## SNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760v1](http://arxiv.org/abs/2506.11760v1)|null|
+|**2025-06-12**|**Mapping and Scheduling Spiking Neural Networks On Segmented Ladder Bus Architectures**|Phu Khanh Huynh et.al.|[2506.11286v1](http://arxiv.org/abs/2506.11286v1)|null|
 |**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695v1](http://arxiv.org/abs/2506.09695v1)|**[link](https://github.com/wuchangw/fastersnn)**|
 |**2025-06-11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|Enrique Barba Roque et.al.|[2506.09599v1](http://arxiv.org/abs/2506.09599v1)|null|
 |**2025-06-10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|Emirhan Bilgiç et.al.|[2506.09194v1](http://arxiv.org/abs/2506.09194v1)|null|
@@ -155,7 +157,7 @@
 |**2025-06-11**|**SpikeSMOKE: Spiking Neural Networks for Monocular 3D Object Detection with Cross-Scale Gated Coding**|Xuemei Chen et.al.|[2506.07737v2](http://arxiv.org/abs/2506.07737v2)|null|
 |**2025-06-09**|**ReverB-SNN: Reversing Bit of the Weight and Activation for Spiking Neural Networks**|Yufei Guo et.al.|[2506.07720v1](http://arxiv.org/abs/2506.07720v1)|null|
 |**2025-06-07**|**Bio-Inspired Classification: Combining Information Theory and Spiking Neural Networks -- Influence of the Learning Rules**|Zofia Rudnicka et.al.|[2506.06750v1](http://arxiv.org/abs/2506.06750v1)|null|
-|**2025-06-04**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|Maxime Fabre et.al.|[2506.06374v1](http://arxiv.org/abs/2506.06374v1)|**[link](https://github.com/maxtimer97/ssm-inspired-lif)**|
+|**2025-06-13**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|Maxime Fabre et.al.|[2506.06374v2](http://arxiv.org/abs/2506.06374v2)|**[link](https://github.com/maxtimer97/ssm-inspired-lif)**|
 |**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|null|
 |**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|null|
 |**2025-06-12**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|Gabriele Magrini et.al.|[2506.04817v2](http://arxiv.org/abs/2506.04817v2)|null|
@@ -180,7 +182,7 @@
 |**2025-05-26**|**Multi-Timescale Motion-Decoupled Spiking Transformer for Audio-Visual Zero-Shot Learning**|Wenrui Li et.al.|[2505.19938v1](http://arxiv.org/abs/2505.19938v1)|null|
 |**2025-05-26**|**SpikeStereoNet: A Brain-Inspired Framework for Stereo Depth Estimation from Spike Streams**|Zhuoheng Gao et.al.|[2505.19487v1](http://arxiv.org/abs/2505.19487v1)|null|
 |**2025-05-24**|**Spiking Transformers Need High Frequency Information**|Yuetong Fang et.al.|[2505.18608v1](http://arxiv.org/abs/2505.18608v1)|null|
-|**2025-05-23**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|Duc Anh Nguyen et.al.|[2505.18023v1](http://arxiv.org/abs/2505.18023v1)|null|
+|**2025-06-13**|**Time to Spike? Understanding the Representational Power of Spiking Neural Networks in Discrete Time**|Duc Anh Nguyen et.al.|[2505.18023v2](http://arxiv.org/abs/2505.18023v2)|null|
 |**2025-05-23**|**A Principled Bayesian Framework for Training Binary and Spiking Neural Networks**|James A. Walker et.al.|[2505.17962v1](http://arxiv.org/abs/2505.17962v1)|null|
 |**2025-05-23**|**Object Classification Utilizing Neuromorphic Proprioceptive Signals in Active Exploration: Validated on a Soft Anthropomorphic Hand**|Fengyi Wang et.al.|[2505.17738v1](http://arxiv.org/abs/2505.17738v1)|null|
 |**2025-05-23**|**SVL: Spike-based Vision-language Pretraining for Efficient 3D Open-world Understanding**|Xuerui Qiu et.al.|[2505.17674v1](http://arxiv.org/abs/2505.17674v1)|null|
@@ -357,7 +359,7 @@
 |**2025-02-06**|**FAS: Fast ANN-SNN Conversion for Spiking Large Language Models**|Long Chen et.al.|[2502.04405v1](http://arxiv.org/abs/2502.04405v1)|null|
 |**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
 
 ## Memristive Computing
 
@@ -368,5 +370,5 @@
 |**2022-08-21**|**Memristive Computing for Efficient Inference on Resource Constrained Devices**|Venkatesh Rammamoorthy et.al.|[2208.10490v1](http://arxiv.org/abs/2208.10490v1)|null|
 |**2021-05-31**|**Quantum-statistical transport phenomena in memristive computing architectures**|Christopher N. Singh et.al.|[1908.08070v2](http://arxiv.org/abs/1908.08070v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250614>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
 
