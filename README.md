@@ -1,4 +1,4 @@
- Updated on 2025.06.16
+ Updated on 2025.06.17
 
 <details>
   <summary>Table of Contents</summary>
@@ -63,7 +63,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
 
 ## Forward Forward
 
@@ -139,17 +139,23 @@
 |**2011-12-27**|**Dihadron momentum imbalance and correlations in d+Au collisions**|Zhong-Bo Kang et.al.|[1112.6021v1](http://arxiv.org/abs/1112.6021v1)|null|
 |**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
 
 ## SNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Spiking Neural Networks for Low-Power Vibration-Based Predictive Maintenance**|Alexandru Vasilache et.al.|[2506.13416v1](http://arxiv.org/abs/2506.13416v1)|null|
+|**2025-06-16**|**Training Neural Networks by Optimizing Neuron Positions**|Laura Erb et.al.|[2506.13410v1](http://arxiv.org/abs/2506.13410v1)|null|
+|**2025-06-16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|Jann Krausse et.al.|[2506.13400v1](http://arxiv.org/abs/2506.13400v1)|null|
+|**2025-06-16**|**Probabilistic Modeling of Spiking Neural Networks with Contract-Based Verification**|Zhen Yao et.al.|[2506.13340v1](http://arxiv.org/abs/2506.13340v1)|null|
+|**2025-06-16**|**Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons**|Filippo Marostica et.al.|[2506.13268v1](http://arxiv.org/abs/2506.13268v1)|null|
+|**2025-06-10**|**Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity**|Wanjin Feng et.al.|[2506.12087v1](http://arxiv.org/abs/2506.12087v1)|null|
 |**2025-06-13**|**FeNN: A RISC-V vector processor for Spiking Neural Network acceleration**|Zainab Aizaz et.al.|[2506.11760v1](http://arxiv.org/abs/2506.11760v1)|null|
 |**2025-06-12**|**Mapping and Scheduling Spiking Neural Networks On Segmented Ladder Bus Architectures**|Phu Khanh Huynh et.al.|[2506.11286v1](http://arxiv.org/abs/2506.11286v1)|null|
 |**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695v1](http://arxiv.org/abs/2506.09695v1)|**[link](https://github.com/wuchangw/fastersnn)**|
 |**2025-06-11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|Enrique Barba Roque et.al.|[2506.09599v1](http://arxiv.org/abs/2506.09599v1)|null|
-|**2025-06-10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|Emirhan Bilgiç et.al.|[2506.09194v1](http://arxiv.org/abs/2506.09194v1)|null|
+|**2025-06-10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|Emirhan Bilgiç et.al.|[2506.09194v1](http://arxiv.org/abs/2506.09194v1)|**[link](https://github.com/vnd-ogrenme/ongorusel-kodlama)**|
 |**2025-06-10**|**Spiking Neural Models for Decision-Making Tasks with Learning**|Sophie Jaffard et.al.|[2506.09087v1](http://arxiv.org/abs/2506.09087v1)|null|
 |**2025-06-10**|**STI-SNN: A 0.14 GOPS/W/PE Single-Timestep Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et.al.|[2506.08842v1](http://arxiv.org/abs/2506.08842v1)|null|
 |**2025-06-09**|**A Practical Guide to Tuning Spiking Neuronal Dynamics**|William Gebhardt et.al.|[2506.08138v1](http://arxiv.org/abs/2506.08138v1)|**[link](https://github.com/naclab/snndynamicspracticalguide)**|
@@ -164,7 +170,7 @@
 |**2025-06-05**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|Shuo Zhang et.al.|[2506.04526v1](http://arxiv.org/abs/2506.04526v1)|null|
 |**2025-06-04**|**Optimal Spiking Brain Compression: Improving One-Shot Post-Training Pruning and Quantization for Spiking Neural Networks**|Lianfeng Shi et.al.|[2506.03996v1](http://arxiv.org/abs/2506.03996v1)|null|
 |**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918v1](http://arxiv.org/abs/2506.03918v1)|null|
-|**2025-06-03**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450v1](http://arxiv.org/abs/2506.03450v1)|null|
+|**2025-06-16**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450v2](http://arxiv.org/abs/2506.03450v2)|null|
 |**2025-06-03**|**Sheaves Reloaded: A Directional Awakening**|Stefano Fiorini et.al.|[2506.02842v1](http://arxiv.org/abs/2506.02842v1)|null|
 |**2025-06-03**|**Minimal Neuron Circuits -- Part I: Resonators**|Amr Nabil et.al.|[2506.02341v1](http://arxiv.org/abs/2506.02341v1)|null|
 |**2025-05-12**|**Efficient ANN-SNN Conversion with Error Compensation Learning**|Chang Liu et.al.|[2506.01968v1](http://arxiv.org/abs/2506.01968v1)|null|
@@ -359,7 +365,7 @@
 |**2025-02-06**|**FAS: Fast ANN-SNN Conversion for Spiking Large Language Models**|Long Chen et.al.|[2502.04405v1](http://arxiv.org/abs/2502.04405v1)|null|
 |**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
 
 ## Memristive Computing
 
@@ -370,5 +376,5 @@
 |**2022-08-21**|**Memristive Computing for Efficient Inference on Resource Constrained Devices**|Venkatesh Rammamoorthy et.al.|[2208.10490v1](http://arxiv.org/abs/2208.10490v1)|null|
 |**2021-05-31**|**Quantum-statistical transport phenomena in memristive computing architectures**|Christopher N. Singh et.al.|[1908.08070v2](http://arxiv.org/abs/1908.08070v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250616>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
 
