@@ -1,4 +1,4 @@
- Updated on 2025.06.17
+ Updated on 2025.06.18
 
 <details>
   <summary>Table of Contents</summary>
@@ -14,6 +14,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|null|
 |**2024-11-01**|**Reply to: Limitations in odour recognition and generalisation in a neuromorphic olfactory circuit**|Roy Moyal et.al.|[2411.10456v1](http://arxiv.org/abs/2411.10456v1)|null|
 |**2024-09-17**|**Bio-Inspired Mamba: Temporal Locality and Bioplausible Learning in Selective State Space Models**|Jiahao Qin et.al.|[2409.11263v1](http://arxiv.org/abs/2409.11263v1)|null|
 |**2024-08-28**|**Emulating Brain-like Rapid Learning in Neuromorphic Edge Computing**|Kenneth Stewart et.al.|[2408.15800v1](http://arxiv.org/abs/2408.15800v1)|**[link](https://github.com/nmi-lab/snn_maml)**|
@@ -63,7 +64,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
 
 ## Forward Forward
 
@@ -139,12 +140,15 @@
 |**2011-12-27**|**Dihadron momentum imbalance and correlations in d+Au collisions**|Zhong-Bo Kang et.al.|[1112.6021v1](http://arxiv.org/abs/1112.6021v1)|null|
 |**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
 
 ## SNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|null|
+|**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272v1](http://arxiv.org/abs/2506.14272v1)|null|
+|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138v1](http://arxiv.org/abs/2506.14138v1)|null|
 |**2025-06-16**|**Spiking Neural Networks for Low-Power Vibration-Based Predictive Maintenance**|Alexandru Vasilache et.al.|[2506.13416v1](http://arxiv.org/abs/2506.13416v1)|null|
 |**2025-06-16**|**Training Neural Networks by Optimizing Neuron Positions**|Laura Erb et.al.|[2506.13410v1](http://arxiv.org/abs/2506.13410v1)|null|
 |**2025-06-16**|**Realtime-Capable Hybrid Spiking Neural Networks for Neural Decoding of Cortical Activity**|Jann Krausse et.al.|[2506.13400v1](http://arxiv.org/abs/2506.13400v1)|null|
@@ -196,7 +200,7 @@
 |**2025-05-23**|**TDFormer: A Top-Down Attention-Controlled Spiking Transformer**|Zizheng Zhu et.al.|[2505.15840v2](http://arxiv.org/abs/2505.15840v2)|null|
 |**2025-05-16**|**Adversarially Robust Spiking Neural Networks with Sparse Connectivity**|Mathias Schmolli et.al.|[2505.15833v1](http://arxiv.org/abs/2505.15833v1)|null|
 |**2025-04-14**|**Beyond Pairwise Plasticity: Group-Level Spike Synchrony Facilitates Efficient Learning in Spiking Neural Networks**|Yuchen Tian et.al.|[2505.14841v1](http://arxiv.org/abs/2505.14841v1)|null|
-|**2025-05-19**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|Wei Hua et.al.|[2505.14719v1](http://arxiv.org/abs/2505.14719v1)|null|
+|**2025-06-17**|**MSVIT: Improving Spiking Vision Transformer Using Multi-scale Attention Fusion**|Wei Hua et.al.|[2505.14719v2](http://arxiv.org/abs/2505.14719v2)|null|
 |**2025-05-20**|**Spiking Neural Networks with Temporal Attention-Guided Adaptive Fusion for imbalanced Multi-modal Learning**|Jiangrong Shen et.al.|[2505.14535v1](http://arxiv.org/abs/2505.14535v1)|null|
 |**2025-05-20**|**Energy-Efficient Deep Reinforcement Learning with Spiking Transformers**|Mohammad Irfan Uddin et.al.|[2505.14533v1](http://arxiv.org/abs/2505.14533v1)|null|
 |**2025-05-19**|**Frozen Backpropagation: Relaxing Weight Symmetry in Temporally-Coded Deep Spiking Neural Networks**|Gaspard Goupy et.al.|[2505.13741v1](http://arxiv.org/abs/2505.13741v1)|null|
@@ -365,7 +369,7 @@
 |**2025-02-06**|**FAS: Fast ANN-SNN Conversion for Spiking Large Language Models**|Long Chen et.al.|[2502.04405v1](http://arxiv.org/abs/2502.04405v1)|null|
 |**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
 
 ## Memristive Computing
 
@@ -376,5 +380,5 @@
 |**2022-08-21**|**Memristive Computing for Efficient Inference on Resource Constrained Devices**|Venkatesh Rammamoorthy et.al.|[2208.10490v1](http://arxiv.org/abs/2208.10490v1)|null|
 |**2021-05-31**|**Quantum-statistical transport phenomena in memristive computing architectures**|Christopher N. Singh et.al.|[1908.08070v2](http://arxiv.org/abs/1908.08070v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250617>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250618>back to top</a>)</p>
 
