@@ -1,4 +1,4 @@
- Updated on 2025.06.19
+ Updated on 2025.06.20
 
 <details>
   <summary>Table of Contents</summary>
@@ -64,7 +64,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250620>back to top</a>)</p>
 
 ## Forward Forward
 
@@ -140,7 +140,7 @@
 |**2011-12-27**|**Dihadron momentum imbalance and correlations in d+Au collisions**|Zhong-Bo Kang et.al.|[1112.6021v1](http://arxiv.org/abs/1112.6021v1)|null|
 |**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250620>back to top</a>)</p>
 
 ## SNN
 
@@ -161,7 +161,7 @@
 |**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695v1](http://arxiv.org/abs/2506.09695v1)|**[link](https://github.com/wuchangw/fastersnn)**|
 |**2025-06-11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|Enrique Barba Roque et.al.|[2506.09599v1](http://arxiv.org/abs/2506.09599v1)|null|
 |**2025-06-10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|Emirhan Bilgiç et.al.|[2506.09194v1](http://arxiv.org/abs/2506.09194v1)|**[link](https://github.com/vnd-ogrenme/ongorusel-kodlama)**|
-|**2025-06-10**|**Spiking Neural Models for Decision-Making Tasks with Learning**|Sophie Jaffard et.al.|[2506.09087v1](http://arxiv.org/abs/2506.09087v1)|null|
+|**2025-06-10**|**Spiking Neural Models for Decision-Making Tasks with Learning**|Sophie Jaffard et.al.|[2506.09087v1](http://arxiv.org/abs/2506.09087v1)|**[link](https://github.com/sophiejaffard/mel)**|
 |**2025-06-10**|**STI-SNN: A 0.14 GOPS/W/PE Single-Timestep Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et.al.|[2506.08842v1](http://arxiv.org/abs/2506.08842v1)|null|
 |**2025-06-09**|**A Practical Guide to Tuning Spiking Neuronal Dynamics**|William Gebhardt et.al.|[2506.08138v1](http://arxiv.org/abs/2506.08138v1)|**[link](https://github.com/naclab/snndynamicspracticalguide)**|
 |**2025-06-09**|**Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow**|Muhammad Ahmed Humais et.al.|[2506.07878v1](http://arxiv.org/abs/2506.07878v1)|**[link](https://github.com/ahmedhumais/e-stmflow)**|
@@ -370,7 +370,7 @@
 |**2025-02-06**|**FAS: Fast ANN-SNN Conversion for Spiking Large Language Models**|Long Chen et.al.|[2502.04405v1](http://arxiv.org/abs/2502.04405v1)|null|
 |**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250620>back to top</a>)</p>
 
 ## Memristive Computing
 
@@ -381,5 +381,5 @@
 |**2022-08-21**|**Memristive Computing for Efficient Inference on Resource Constrained Devices**|Venkatesh Rammamoorthy et.al.|[2208.10490v1](http://arxiv.org/abs/2208.10490v1)|null|
 |**2021-05-31**|**Quantum-statistical transport phenomena in memristive computing architectures**|Christopher N. Singh et.al.|[1908.08070v2](http://arxiv.org/abs/1908.08070v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250619>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250620>back to top</a>)</p>
 
