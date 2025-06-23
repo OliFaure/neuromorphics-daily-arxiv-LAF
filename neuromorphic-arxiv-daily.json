@@ -344,7 +344,8 @@
     "2506.14464": "|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|null|\n",
     "2506.14272": "|**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272v1](http://arxiv.org/abs/2506.14272v1)|null|\n",
     "2506.14138": "|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138v1](http://arxiv.org/abs/2506.14138v1)|null|\n",
-    "2506.14984": "|**2025-06-17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|Marissa Dominijanni et.al.|[2506.14984v1](http://arxiv.org/abs/2506.14984v1)|**[link](https://github.com/mdominijanni/dsstdp-results)**|\n"
+    "2506.14984": "|**2025-06-17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|Marissa Dominijanni et.al.|[2506.14984v1](http://arxiv.org/abs/2506.14984v1)|**[link](https://github.com/mdominijanni/dsstdp-results)**|\n",
+    "2506.17169": "|**2025-06-20**|**Continual Learning with Columnar Spiking Neural Networks**|Denis Larionov et.al.|[2506.17169v1](http://arxiv.org/abs/2506.17169v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
