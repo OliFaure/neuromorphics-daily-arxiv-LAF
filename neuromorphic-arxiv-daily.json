@@ -48,7 +48,7 @@
     "1704.05877": "|**2019-01-23**|**Fast and Accurate Sparse Coding of Visual Stimuli with a Simple, Ultra-Low-Energy Spiking Architecture**|Walt Woods et.al.|[1704.05877v3](http://arxiv.org/abs/1704.05877v3)|**[link](https://github.com/wwoods/tlab_sslca)**|\n",
     "1505.02495": "|**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|\n",
     "1304.7118": "|**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|\n",
-    "2506.14464": "|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|null|\n",
+    "2506.14464": "|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|**[link](https://github.com/imltugraz/hypr)**|\n",
     "2506.18530": "|**2025-06-23**|**Embedded FPGA Acceleration of Brain-Like Neural Networks: Online Learning to Scalable Inference**|Muhammad Ihsan Al Hafiz et.al.|[2506.18530v1](http://arxiv.org/abs/2506.18530v1)|null|\n"
   },
   "Forward Forward": {
@@ -343,12 +343,14 @@
     "2506.13340": "|**2025-06-16**|**Probabilistic Modeling of Spiking Neural Networks with Contract-Based Verification**|Zhen Yao et.al.|[2506.13340v1](http://arxiv.org/abs/2506.13340v1)|null|\n",
     "2506.13268": "|**2025-06-16**|**Energy-Efficient Digital Design: A Comparative Study of Event-Driven and Clock-Driven Spiking Neurons**|Filippo Marostica et.al.|[2506.13268v1](http://arxiv.org/abs/2506.13268v1)|null|\n",
     "2506.12087": "|**2025-06-10**|**Efficient Parallel Training Methods for Spiking Neural Networks with Constant Time Complexity**|Wanjin Feng et.al.|[2506.12087v1](http://arxiv.org/abs/2506.12087v1)|null|\n",
-    "2506.14464": "|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|null|\n",
+    "2506.14464": "|**2025-06-17**|**A Scalable Hybrid Training Approach for Recurrent Spiking Neural Networks**|Maximilian Baronig et.al.|[2506.14464v1](http://arxiv.org/abs/2506.14464v1)|**[link](https://github.com/imltugraz/hypr)**|\n",
     "2506.14272": "|**2025-06-17**|**GHz spiking neuromorphic photonic chip with in-situ training**|Jinlong Xiang et.al.|[2506.14272v1](http://arxiv.org/abs/2506.14272v1)|null|\n",
     "2506.14138": "|**2025-06-17**|**NeuroCoreX: An Open-Source FPGA-Based Spiking Neural Network Emulator with On-Chip Learning**|Ashish Gautam et.al.|[2506.14138v1](http://arxiv.org/abs/2506.14138v1)|null|\n",
     "2506.14984": "|**2025-06-17**|**Extending Spike-Timing Dependent Plasticity to Learning Synaptic Delays**|Marissa Dominijanni et.al.|[2506.14984v1](http://arxiv.org/abs/2506.14984v1)|**[link](https://github.com/mdominijanni/dsstdp-results)**|\n",
     "2506.17169": "|**2025-06-20**|**Continual Learning with Columnar Spiking Neural Networks**|Denis Larionov et.al.|[2506.17169v1](http://arxiv.org/abs/2506.17169v1)|null|\n",
-    "2506.18306": "|**2025-06-23**|**Spiffy: Efficient Implementation of CoLaNET for Raspberry Pi**|Andrey Derzhavin et.al.|[2506.18306v1](http://arxiv.org/abs/2506.18306v1)|null|\n"
+    "2506.18306": "|**2025-06-23**|**Spiffy: Efficient Implementation of CoLaNET for Raspberry Pi**|Andrey Derzhavin et.al.|[2506.18306v1](http://arxiv.org/abs/2506.18306v1)|null|\n",
+    "2506.19377": "|**2025-06-24**|**A Unified Platform to Evaluate STDP Learning Rule and Synapse Model using Pattern Recognition in a Spiking Neural Network**|Jaskirat Singh Maskeen et.al.|[2506.19377v1](http://arxiv.org/abs/2506.19377v1)|null|\n",
+    "2506.19256": "|**2025-06-24**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|Boxuan Zhang et.al.|[2506.19256v1](http://arxiv.org/abs/2506.19256v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
