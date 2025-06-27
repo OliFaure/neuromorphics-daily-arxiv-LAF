@@ -121,7 +121,8 @@
     "2504.11229": "|**2025-04-15**|**The Forward-Forward Algorithm: Characterizing Training Behavior**|Reece Adamson et.al.|[2504.11229v1](http://arxiv.org/abs/2504.11229v1)|null|\n",
     "2504.21662": "|**2025-06-25**|**On Advancements of the Forward-Forward Algorithm**|Mauricio Ortiz Torres et.al.|[2504.21662v2](http://arxiv.org/abs/2504.21662v2)|null|\n",
     "2505.16649": "|**2025-05-22**|**Stochastic Forward-Forward Learning through Representational Dimensionality Compression**|Zhichao Zhu et.al.|[2505.16649v1](http://arxiv.org/abs/2505.16649v1)|**[link](https://github.com/zhichaozhu/stochasticforwardforward)**|\n",
-    "2506.18260": "|**2025-06-23**|**Advanced For-Loop for QML algorithm search**|FuTe Wong et.al.|[2506.18260v1](http://arxiv.org/abs/2506.18260v1)|null|\n"
+    "2506.18260": "|**2025-06-23**|**Advanced For-Loop for QML algorithm search**|FuTe Wong et.al.|[2506.18260v1](http://arxiv.org/abs/2506.18260v1)|null|\n",
+    "2506.21006": "|**2025-06-26**|**Detection of Breast Cancer Lumpectomy Margin with SAM-incorporated Forward-Forward Contrastive Learning**|Tyler Ward et.al.|[2506.21006v1](http://arxiv.org/abs/2506.21006v1)|null|\n"
   },
   "SNN": {
     "2504.06134": "|**2025-04-08**|**SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions**|Simone Manoni et.al.|[2504.06134v1](http://arxiv.org/abs/2504.06134v1)|null|\n",
@@ -351,7 +352,10 @@
     "2506.18306": "|**2025-06-23**|**Spiffy: Efficient Implementation of CoLaNET for Raspberry Pi**|Andrey Derzhavin et.al.|[2506.18306v1](http://arxiv.org/abs/2506.18306v1)|null|\n",
     "2506.19377": "|**2025-06-24**|**A Unified Platform to Evaluate STDP Learning Rule and Synapse Model using Pattern Recognition in a Spiking Neural Network**|Jaskirat Singh Maskeen et.al.|[2506.19377v1](http://arxiv.org/abs/2506.19377v1)|null|\n",
     "2506.19256": "|**2025-06-24**|**Enhancing Generalization of Spiking Neural Networks Through Temporal Regularization**|Boxuan Zhang et.al.|[2506.19256v1](http://arxiv.org/abs/2506.19256v1)|**[link](https://github.com/ZBX05/Temporal-Regularization-Training)**|\n",
-    "2506.20015": "|**2025-06-24**|**Neuromorphic Wireless Split Computing with Resonate-and-Fire Neurons**|Dengyu Wu et.al.|[2506.20015v1](http://arxiv.org/abs/2506.20015v1)|null|\n"
+    "2506.20015": "|**2025-06-24**|**Neuromorphic Wireless Split Computing with Resonate-and-Fire Neurons**|Dengyu Wu et.al.|[2506.20015v1](http://arxiv.org/abs/2506.20015v1)|null|\n",
+    "2506.21363": "|**2025-06-26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|Dean Brand et.al.|[2506.21363v1](http://arxiv.org/abs/2506.21363v1)|null|\n",
+    "2506.21324": "|**2025-06-26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|Jiechen Chen et.al.|[2506.21324v1](http://arxiv.org/abs/2506.21324v1)|null|\n",
+    "2506.20782": "|**2025-06-25**|**Spiking Neural Networks for SAR Interferometric Phase Unwrapping: A Theoretical Framework for Energy-Efficient Processing**|Marc Bara et.al.|[2506.20782v1](http://arxiv.org/abs/2506.20782v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
