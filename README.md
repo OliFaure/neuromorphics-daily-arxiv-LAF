@@ -1,4 +1,4 @@
- Updated on 2025.06.30
+ Updated on 2025.07.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -65,7 +65,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 ## Forward Forward
 
@@ -73,6 +73,7 @@
 |---|---|---|---|---|
 |**2003-03-26**|**A Gedanken spacecraft that operates using the quantum vacuum (Dynamic Casimir effect)**|G. Jordan Maclay et.al.|[physics/0303108v1](http://arxiv.org/abs/physics/0303108v1)|null|
 |**1997-10-07**|**The N - Jet Inclusive Cross-Section in the Hard Pomeron Model**|Mikhail Braun et.al.|[hep-ph/9710263v1](http://arxiv.org/abs/hep-ph/9710263v1)|null|
+|**2025-06-28**|**FF-INT8: Efficient Forward-Forward DNN Training on Edge Devices with INT8 Precision**|Jingxiao Ma et.al.|[2506.22771v1](http://arxiv.org/abs/2506.22771v1)|null|
 |**2025-06-26**|**Detection of Breast Cancer Lumpectomy Margin with SAM-incorporated Forward-Forward Contrastive Learning**|Tyler Ward et.al.|[2506.21006v1](http://arxiv.org/abs/2506.21006v1)|null|
 |**2025-06-23**|**Advanced For-Loop for QML algorithm search**|FuTe Wong et.al.|[2506.18260v1](http://arxiv.org/abs/2506.18260v1)|null|
 |**2025-05-22**|**Stochastic Forward-Forward Learning through Representational Dimensionality Compression**|Zhichao Zhu et.al.|[2505.16649v1](http://arxiv.org/abs/2505.16649v1)|**[link](https://github.com/zhichaozhu/stochasticforwardforward)**|
@@ -143,12 +144,15 @@
 |**2011-12-27**|**Dihadron momentum imbalance and correlations in d+Au collisions**|Zhong-Bo Kang et.al.|[1112.6021v1](http://arxiv.org/abs/1112.6021v1)|null|
 |**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 ## SNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041v1](http://arxiv.org/abs/2506.24041v1)|null|
+|**2025-06-30**|**Training of Spiking Neural Networks with Expectation-Propagation**|Dan Yao et.al.|[2506.23757v1](http://arxiv.org/abs/2506.23757v1)|null|
+|**2025-06-30**|**Towards Efficient and Accurate Spiking Neural Networks via Adaptive Bit Allocation**|Xingting Yao et.al.|[2506.23717v1](http://arxiv.org/abs/2506.23717v1)|null|
 |**2025-06-27**|**Unified Memcapacitor-Memristor Memory for Synaptic Weights and Neuron Temporal Dynamics**|Simone D'Agostino et.al.|[2506.22227v1](http://arxiv.org/abs/2506.22227v1)|null|
 |**2025-06-26**|**Canonical Quantization of a Memristive Leaky Integrate-and-Fire Neuron Circuit**|Dean Brand et.al.|[2506.21363v1](http://arxiv.org/abs/2506.21363v1)|null|
 |**2025-06-26**|**Stochastic Quantum Spiking Neural Networks with Quantum Memory and Local Learning**|Jiechen Chen et.al.|[2506.21324v1](http://arxiv.org/abs/2506.21324v1)|null|
@@ -382,7 +386,7 @@
 |**2025-02-06**|**FAS: Fast ANN-SNN Conversion for Spiking Large Language Models**|Long Chen et.al.|[2502.04405v1](http://arxiv.org/abs/2502.04405v1)|null|
 |**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
 ## Memristive Computing
 
@@ -393,5 +397,5 @@
 |**2022-08-21**|**Memristive Computing for Efficient Inference on Resource Constrained Devices**|Venkatesh Rammamoorthy et.al.|[2208.10490v1](http://arxiv.org/abs/2208.10490v1)|null|
 |**2021-05-31**|**Quantum-statistical transport phenomena in memristive computing architectures**|Christopher N. Singh et.al.|[1908.08070v2](http://arxiv.org/abs/1908.08070v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250630>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250701>back to top</a>)</p>
 
