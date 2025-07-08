@@ -333,7 +333,7 @@
     "2506.06374": "|**2025-06-13**|**Structured State Space Model Dynamics and Parametrization for Spiking Neural Networks**|Maxime Fabre et.al.|[2506.06374v2](http://arxiv.org/abs/2506.06374v2)|**[link](https://github.com/maxtimer97/ssm-inspired-lif)**|\n",
     "2506.08842": "|**2025-06-10**|**STI-SNN: A 0.14 GOPS/W/PE Single-Timestep Inference FPGA-based SNN Accelerator with Algorithm and Hardware Co-Design**|Kainan Wang et.al.|[2506.08842v1](http://arxiv.org/abs/2506.08842v1)|null|\n",
     "2506.08138": "|**2025-06-09**|**A Practical Guide to Tuning Spiking Neuronal Dynamics**|William Gebhardt et.al.|[2506.08138v1](http://arxiv.org/abs/2506.08138v1)|**[link](https://github.com/naclab/snndynamicspracticalguide)**|\n",
-    "2506.09695": "|**2025-06-11**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695v1](http://arxiv.org/abs/2506.09695v1)|**[link](https://github.com/wuchangw/fastersnn)**|\n",
+    "2506.09695": "|**2025-07-07**|**Towards Practical Alzheimer's Disease Diagnosis: A Lightweight and Interpretable Spiking Neural Model**|Changwei Wu et.al.|[2506.09695v2](http://arxiv.org/abs/2506.09695v2)|**[link](https://github.com/wuchangw/fastersnn)**|\n",
     "2506.09599": "|**2025-06-11**|**Energy Aware Development of Neuromorphic Implantables: From Metrics to Action**|Enrique Barba Roque et.al.|[2506.09599v1](http://arxiv.org/abs/2506.09599v1)|null|\n",
     "2506.09194": "|**2025-06-10**|**Integration of Contrastive Predictive Coding and Spiking Neural Networks**|Emirhan Bilgi\u00e7 et.al.|[2506.09194v1](http://arxiv.org/abs/2506.09194v1)|**[link](https://github.com/vnd-ogrenme/ongorusel-kodlama)**|\n",
     "2506.09087": "|**2025-06-10**|**Spiking Neural Models for Decision-Making Tasks with Learning**|Sophie Jaffard et.al.|[2506.09087v1](http://arxiv.org/abs/2506.09087v1)|**[link](https://github.com/sophiejaffard/mel)**|\n",
@@ -360,7 +360,12 @@
     "2506.22227": "|**2025-06-27**|**Unified Memcapacitor-Memristor Memory for Synaptic Weights and Neuron Temporal Dynamics**|Simone D'Agostino et.al.|[2506.22227v1](http://arxiv.org/abs/2506.22227v1)|null|\n",
     "2506.24041": "|**2025-06-30**|**Unsupervised Sparse Coding-based Spiking Neural Network for Real-time Spike Sorting**|Alexis Melot et.al.|[2506.24041v1](http://arxiv.org/abs/2506.24041v1)|null|\n",
     "2506.23757": "|**2025-06-30**|**Training of Spiking Neural Networks with Expectation-Propagation**|Dan Yao et.al.|[2506.23757v1](http://arxiv.org/abs/2506.23757v1)|null|\n",
-    "2506.23717": "|**2025-06-30**|**Towards Efficient and Accurate Spiking Neural Networks via Adaptive Bit Allocation**|Xingting Yao et.al.|[2506.23717v1](http://arxiv.org/abs/2506.23717v1)|null|\n"
+    "2506.23717": "|**2025-06-30**|**Towards Efficient and Accurate Spiking Neural Networks via Adaptive Bit Allocation**|Xingting Yao et.al.|[2506.23717v1](http://arxiv.org/abs/2506.23717v1)|null|\n",
+    "2507.04275": "|**2025-07-06**|**VOLTRON: Detecting Unknown Malware Using Graph-Based Zero-Shot Learning**|M. Tahir Akdeniz et.al.|[2507.04275v1](http://arxiv.org/abs/2507.04275v1)|null|\n",
+    "2507.03765": "|**2025-07-04**|**Efficient Event-Based Semantic Segmentation via Exploiting Frame-Event Fusion: A Hybrid Neural Network Approach**|Hebei Li et.al.|[2507.03765v1](http://arxiv.org/abs/2507.03765v1)|null|\n",
+    "2507.02960": "|**2025-06-30**|**Optimization of Low-Latency Spiking Neural Networks Utilizing Historical Dynamics of Refractory Periods**|Liying Tao et.al.|[2507.02960v1](http://arxiv.org/abs/2507.02960v1)|null|\n",
+    "2507.02945": "|**2025-06-28**|**SPEAR: Structured Pruning for Spiking Neural Networks via Synaptic Operation Estimation and Reinforcement Learning**|Hui Xie et.al.|[2507.02945v1](http://arxiv.org/abs/2507.02945v1)|null|\n",
+    "2507.02901": "|**2025-06-23**|**Online Continual Learning via Spiking Neural Networks with Sleep Enhanced Latent Replay**|Erliang Lin et.al.|[2507.02901v1](http://arxiv.org/abs/2507.02901v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
