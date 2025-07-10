@@ -123,7 +123,8 @@
     "2505.16649": "|**2025-05-22**|**Stochastic Forward-Forward Learning through Representational Dimensionality Compression**|Zhichao Zhu et.al.|[2505.16649v1](http://arxiv.org/abs/2505.16649v1)|**[link](https://github.com/zhichaozhu/stochasticforwardforward)**|\n",
     "2506.18260": "|**2025-06-23**|**Advanced For-Loop for QML algorithm search**|FuTe Wong et.al.|[2506.18260v1](http://arxiv.org/abs/2506.18260v1)|null|\n",
     "2506.21006": "|**2025-06-26**|**Detection of Breast Cancer Lumpectomy Margin with SAM-incorporated Forward-Forward Contrastive Learning**|Tyler Ward et.al.|[2506.21006v1](http://arxiv.org/abs/2506.21006v1)|null|\n",
-    "2506.22771": "|**2025-06-28**|**FF-INT8: Efficient Forward-Forward DNN Training on Edge Devices with INT8 Precision**|Jingxiao Ma et.al.|[2506.22771v1](http://arxiv.org/abs/2506.22771v1)|null|\n"
+    "2506.22771": "|**2025-06-28**|**FF-INT8: Efficient Forward-Forward DNN Training on Edge Devices with INT8 Precision**|Jingxiao Ma et.al.|[2506.22771v1](http://arxiv.org/abs/2506.22771v1)|null|\n",
+    "2507.06461": "|**2025-07-09**|**Energy-Efficient Supervised Learning with a Binary Stochastic Forward-Forward Algorithm**|Risi Jaiswal et.al.|[2507.06461v1](http://arxiv.org/abs/2507.06461v1)|null|\n"
   },
   "SNN": {
     "2504.06134": "|**2025-04-08**|**SpikeStream: Accelerating Spiking Neural Network Inference on RISC-V Clusters with Sparse Computation Extensions**|Simone Manoni et.al.|[2504.06134v1](http://arxiv.org/abs/2504.06134v1)|null|\n",
