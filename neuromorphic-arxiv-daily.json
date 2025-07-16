@@ -324,7 +324,7 @@
     "2506.03918": "|**2025-06-04**|**Learning from Noise: Enhancing DNNs for Event-Based Vision through Controlled Noise Injection**|Marcin Kowalczyk et.al.|[2506.03918v1](http://arxiv.org/abs/2506.03918v1)|null|\n",
     "2506.03450": "|**2025-06-16**|**SENMAP: Multi-objective data-flow mapping and synthesis for hybrid scalable neuromorphic systems**|Prithvish V Nembhani et.al.|[2506.03450v2](http://arxiv.org/abs/2506.03450v2)|null|\n",
     "2506.04817": "|**2025-06-12**|**Spike-TBR: a Noise Resilient Neuromorphic Event Representation**|Gabriele Magrini et.al.|[2506.04817v2](http://arxiv.org/abs/2506.04817v2)|null|\n",
-    "2506.04526": "|**2025-07-12**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|Shuo Zhang et.al.|[2506.04526v2](http://arxiv.org/abs/2506.04526v2)|null|\n",
+    "2506.04526": "|**2025-07-15**|**EECD-Net: Energy-Efficient Crack Detection with Spiking Neural Networks and Gated Attention**|Shuo Zhang et.al.|[2506.04526v3](http://arxiv.org/abs/2506.04526v3)|null|\n",
     "2506.06265": "|**2025-06-06**|**Integrating Complexity and Biological Realism: High-Performance Spiking Neural Networks for Breast Cancer Detection**|Zofia Rudnicka et.al.|[2506.06265v1](http://arxiv.org/abs/2506.06265v1)|null|\n",
     "2506.05679": "|**2025-06-06**|**Integer Binary-Range Alignment Neuron for Spiking Neural Networks**|Binghao Ye et.al.|[2506.05679v1](http://arxiv.org/abs/2506.05679v1)|null|\n",
     "2506.07878": "|**2025-06-09**|**Spatio-Temporal State Space Model For Efficient Event-Based Optical Flow**|Muhammad Ahmed Humais et.al.|[2506.07878v1](http://arxiv.org/abs/2506.07878v1)|**[link](https://github.com/ahmedhumais/e-stmflow)**|\n",
@@ -376,7 +376,9 @@
     "2507.09540": "|**2025-07-13**|**Learning to Control Dynamical Agents via Spiking Neural Networks and Metropolis-Hastings Sampling**|Ali Safa et.al.|[2507.09540v1](http://arxiv.org/abs/2507.09540v1)|null|\n",
     "2507.09538": "|**2025-07-13**|**On the Importance of Neural Membrane Potential Leakage for LIDAR-based Robot Obstacle Avoidance using Spiking Neural Networks**|Zainab Ali et.al.|[2507.09538v1](http://arxiv.org/abs/2507.09538v1)|null|\n",
     "2507.09269": "|**2025-07-12**|**Cross Knowledge Distillation between Artificial and Spiking Neural Networks**|Shuhan Ye et.al.|[2507.09269v1](http://arxiv.org/abs/2507.09269v1)|null|\n",
-    "2507.10401": "|**2025-07-10**|**Stochastic Operator Network: A Stochastic Maximum Principle Based Approach to Operator Learning**|Ryan Bausback et.al.|[2507.10401v1](http://arxiv.org/abs/2507.10401v1)|null|\n"
+    "2507.10401": "|**2025-07-10**|**Stochastic Operator Network: A Stochastic Maximum Principle Based Approach to Operator Learning**|Ryan Bausback et.al.|[2507.10401v1](http://arxiv.org/abs/2507.10401v1)|null|\n",
+    "2507.10568": "|**2025-07-08**|**An Exact Gradient Framework for Training Spiking Neural Networks**|Arman Ferdowsi et.al.|[2507.10568v1](http://arxiv.org/abs/2507.10568v1)|null|\n",
+    "2507.10561": "|**2025-07-04**|**SFATTI: Spiking FPGA Accelerator for Temporal Task-driven Inference -- A Case Study on MNIST**|Alessio Caviglia et.al.|[2507.10561v1](http://arxiv.org/abs/2507.10561v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
