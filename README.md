@@ -1,4 +1,4 @@
- Updated on 2025.07.22
+ Updated on 2025.07.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -65,7 +65,7 @@
 |**2017-07-30**|**An Online Learning Algorithm for Neuromorphic Hardware Implementation**|Chetan Singh Thakur et.al.|[1505.02495v2](http://arxiv.org/abs/1505.02495v2)|null|
 |**2013-04-26**|**Synthesis of neural networks for spatio-temporal spike pattern recognition and processing**|J. Tapson et.al.|[1304.7118v1](http://arxiv.org/abs/1304.7118v1)|null|
 
-<p align=right>(<a href=#Updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
 
 ## Forward Forward
 
@@ -145,12 +145,16 @@
 |**2011-12-27**|**Dihadron momentum imbalance and correlations in d+Au collisions**|Zhong-Bo Kang et.al.|[1112.6021v1](http://arxiv.org/abs/1112.6021v1)|null|
 |**2010-02-03**|**On two-dimensionalization of three-dimensional turbulence in shell models**|Sagar Chakraborty et.al.|[0803.2273v2](http://arxiv.org/abs/0803.2273v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
 
 ## SNN
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Spiking neurons as predictive controllers of linear systems**|Paolo Agliati et.al.|[2507.16495v1](http://arxiv.org/abs/2507.16495v1)|null|
+|**2025-07-22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|Yasser Ashraf et.al.|[2507.16151v1](http://arxiv.org/abs/2507.16151v1)|null|
+|**2025-07-21**|**Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks**|Ziqiao Yu et.al.|[2507.16043v1](http://arxiv.org/abs/2507.16043v1)|null|
+|**2025-07-21**|**Quantization-Aware Neuromorphic Architecture for Efficient Skin Disease Classification on Resource-Constrained Devices**|Haitian Wang et.al.|[2507.15958v1](http://arxiv.org/abs/2507.15958v1)|null|
 |**2025-07-21**|**TONUS: Neuromorphic human pose estimation for artistic sound co-creation**|Jules Lecomte et.al.|[2507.15734v1](http://arxiv.org/abs/2507.15734v1)|null|
 |**2025-07-21**|**When Pipelined In-Memory Accelerators Meet Spiking Direct Feedback Alignment: A Co-Design for Neuromorphic Edge Computing**|Haoxiong Ren et.al.|[2507.15603v1](http://arxiv.org/abs/2507.15603v1)|null|
 |**2025-07-19**|**Analyzing Internal Activity and Robustness of SNNs Across Neuron Parameter Space**|Szymon Mazurek et.al.|[2507.14757v1](http://arxiv.org/abs/2507.14757v1)|null|
@@ -411,7 +415,7 @@
 |**2025-02-06**|**FAS: Fast ANN-SNN Conversion for Spiking Large Language Models**|Long Chen et.al.|[2502.04405v1](http://arxiv.org/abs/2502.04405v1)|null|
 |**2025-02-17**|**STEMS: Spatial-Temporal Mapping Tool For Spiking Neural Networks**|Sherif Eissa et.al.|[2502.03287v2](http://arxiv.org/abs/2502.03287v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
 
 ## Memristive Computing
 
@@ -422,5 +426,5 @@
 |**2022-08-21**|**Memristive Computing for Efficient Inference on Resource Constrained Devices**|Venkatesh Rammamoorthy et.al.|[2208.10490v1](http://arxiv.org/abs/2208.10490v1)|null|
 |**2021-05-31**|**Quantum-statistical transport phenomena in memristive computing architectures**|Christopher N. Singh et.al.|[1908.08070v2](http://arxiv.org/abs/1908.08070v2)|null|
 
-<p align=right>(<a href=#Updated-on-20250722>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250723>back to top</a>)</p>
 

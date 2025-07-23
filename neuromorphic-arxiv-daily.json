@@ -385,7 +385,11 @@
     "2507.15603": "|**2025-07-21**|**When Pipelined In-Memory Accelerators Meet Spiking Direct Feedback Alignment: A Co-Design for Neuromorphic Edge Computing**|Haoxiong Ren et.al.|[2507.15603v1](http://arxiv.org/abs/2507.15603v1)|null|\n",
     "2507.14757": "|**2025-07-19**|**Analyzing Internal Activity and Robustness of SNNs Across Neuron Parameter Space**|Szymon Mazurek et.al.|[2507.14757v1](http://arxiv.org/abs/2507.14757v1)|null|\n",
     "2507.14194": "|**2025-07-14**|**Boosted Enhanced Quantile Regression Neural Networks with Spatiotemporal Permutation Entropy for Complex System Prognostics**|David J Poland et.al.|[2507.14194v1](http://arxiv.org/abs/2507.14194v1)|null|\n",
-    "2507.14159": "|**2025-07-05**|**Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models**|Shanshan Wang et.al.|[2507.14159v1](http://arxiv.org/abs/2507.14159v1)|null|\n"
+    "2507.14159": "|**2025-07-05**|**Siamese Neural Network for Label-Efficient Critical Phenomena Prediction in 3D Percolation Models**|Shanshan Wang et.al.|[2507.14159v1](http://arxiv.org/abs/2507.14159v1)|null|\n",
+    "2507.16495": "|**2025-07-22**|**Spiking neurons as predictive controllers of linear systems**|Paolo Agliati et.al.|[2507.16495v1](http://arxiv.org/abs/2507.16495v1)|null|\n",
+    "2507.16151": "|**2025-07-22**|**SPACT18: Spiking Human Action Recognition Benchmark Dataset with Complementary RGB and Thermal Modalities**|Yasser Ashraf et.al.|[2507.16151v1](http://arxiv.org/abs/2507.16151v1)|null|\n",
+    "2507.16043": "|**2025-07-21**|**Beyond Rate Coding: Surrogate Gradients Enable Spike Timing Learning in Spiking Neural Networks**|Ziqiao Yu et.al.|[2507.16043v1](http://arxiv.org/abs/2507.16043v1)|null|\n",
+    "2507.15958": "|**2025-07-21**|**Quantization-Aware Neuromorphic Architecture for Efficient Skin Disease Classification on Resource-Constrained Devices**|Haitian Wang et.al.|[2507.15958v1](http://arxiv.org/abs/2507.15958v1)|null|\n"
   },
   "Memristive Computing": {
     "2310.06989": "|**2023-10-10**|**TDPP: Two-Dimensional Permutation-Based Protection of Memristive Deep Neural Networks**|Minhui Zou et.al.|[2310.06989v1](http://arxiv.org/abs/2310.06989v1)|null|\n",
